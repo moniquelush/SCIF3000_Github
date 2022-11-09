@@ -1,0 +1,52 @@
+---
+title: "Title"
+author: "Name 1, Name 2, Name 3 etc"
+date: "2022-11-02"
+output: 
+  html_document:
+    css: style.css
+    theme: lumen
+    highlight: tango
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+***
+
+Intro text goes here
+
+```{r}
+# code goes inside chunks
+# comments inside code chunks must have "#" in front
+mean <- 1:5
+```
+
+Text outside of code chunks is rendered as normal text. Write whatever you want here!
+
+*italics*
+
+**bold**
+
+A list:
+
+* Item 1
+* Item 2
+* Item 3
+    - Sub-item 1
+    - Sub-item 2
+
+# Header 1
+
+## Header 2
+
+### Header 3
+
+Put a space before and after a chunk to make sure your text starts on the next line...
+
+```{r, warning = FALSE, message = FALSE}
+# This chunk will stop warnings and messages when loading a package
+library(dplyr)
+```
+
+...like this! 
