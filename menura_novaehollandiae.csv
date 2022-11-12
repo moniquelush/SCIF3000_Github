@@ -1,0 +1,781 @@
+ID,basisOfRec,institution,eventTime,year,month,day,decimalLat,decimalLon,scientific_name,name
+"8",HUMAN_OBSERVATION,iNaturalist,12:05:00Z,"2016","12","14",-33.767955,151.194561,Menura (Menura) novaehollandiae,lyrebird
+"10",HUMAN_OBSERVATION,iNaturalist,16:49:00Z,"2016","12","18",-33.72655,150.317388,Menura (Menura) novaehollandiae,lyrebird
+"17",HUMAN_OBSERVATION,iNaturalist,15:37:00Z,"2016","12","18",-33.738086,150.312209,Menura (Menura) novaehollandiae,lyrebird
+"115",HUMAN_OBSERVATION,iNaturalist,23:16:00Z,"2016","10","18",-33.644421,150.304156,Menura (Menura) novaehollandiae,lyrebird
+"142",HUMAN_OBSERVATION,iNaturalist,21:34:00Z,"2016","10","4",-34.101073,151.048628,Menura (Menura) novaehollandiae,lyrebird
+"146",HUMAN_OBSERVATION,iNaturalist,07:28:00Z,"2016","10","20",-34.078547,151.056284,Menura (Menura) novaehollandiae,lyrebird
+"154",HUMAN_OBSERVATION,iNaturalist,17:45:00Z,"2016","11","29",-33.730578,150.317696,Menura (Menura) novaehollandiae,lyrebird
+"161",HUMAN_OBSERVATION,iNaturalist,,"2016","11","27",-34.084773,151.056846,Menura (Menura) novaehollandiae,lyrebird
+"178",HUMAN_OBSERVATION,iNaturalist,07:21:00Z,"2016","10","7",-33.762317,150.237496,Menura (Menura) novaehollandiae,lyrebird
+"182",HUMAN_OBSERVATION,iNaturalist,21:59:00Z,"2016","10","17",-33.646548,150.324868,Menura (Menura) novaehollandiae,lyrebird
+"194",HUMAN_OBSERVATION,iNaturalist,04:35:00Z,"2016","10","11",-33.635556,150.283611,Menura (Menura) novaehollandiae,lyrebird
+"250",HUMAN_OBSERVATION,iNaturalist,18:14:00Z,"2016","11","29",-33.729877,150.317732,Menura (Menura) novaehollandiae,lyrebird
+"292",HUMAN_OBSERVATION,iNaturalist,18:19:00Z,"2016","11","29",-33.729833,150.317701,Menura (Menura) novaehollandiae,lyrebird
+"299",HUMAN_OBSERVATION,iNaturalist,10:00:51Z,"2016","11","7",-33.731805,150.312862,Menura (Menura) novaehollandiae,lyrebird
+"308",HUMAN_OBSERVATION,,,"2016","6","27",-33.647653,151.100064,Menura (Menura) novaehollandiae,lyrebird
+"312",HUMAN_OBSERVATION,,,"2016","10","7",-33.731738,150.303253,Menura (Menura) novaehollandiae,lyrebird
+"316",HUMAN_OBSERVATION,,,"2016","1","20",-33.733216,150.30168,Menura (Menura) novaehollandiae,lyrebird
+"317",HUMAN_OBSERVATION,,,"2016","9","3",-33.717756,150.364926,Menura (Menura) novaehollandiae,lyrebird
+"323",HUMAN_OBSERVATION,,,"2016","1","20",-33.725895,150.290246,Menura (Menura) novaehollandiae,lyrebird
+"342",HUMAN_OBSERVATION,,,"2016","10","18",-33.644421,150.304156,Menura (Menura) novaehollandiae,lyrebird
+"348",HUMAN_OBSERVATION,CLO,,"2016","12","3",-33.73206,150.31532,Menura (Menura) novaehollandiae,lyrebird
+"349",HUMAN_OBSERVATION,CLO,,"2016","12","21",-33.688393,151.28128,Menura (Menura) novaehollandiae,lyrebird
+"354",HUMAN_OBSERVATION,CLO,,"2016","12","30",-33.688393,151.28128,Menura (Menura) novaehollandiae,lyrebird
+"355",HUMAN_OBSERVATION,CLO,,"2016","6","22",-33.7052,150.24112,Menura (Menura) novaehollandiae,lyrebird
+"369",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.729008,150.30266,Menura (Menura) novaehollandiae,lyrebird
+"379",HUMAN_OBSERVATION,CLO,,"2016","6","3",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"394",HUMAN_OBSERVATION,CLO,,"2016","6","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"398",HUMAN_OBSERVATION,CLO,,"2016","3","5",-33.6575,151.26666,Menura (Menura) novaehollandiae,lyrebird
+"401",HUMAN_OBSERVATION,CLO,,"2016","6","30",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"405",HUMAN_OBSERVATION,CLO,,"2016","6","15",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"407",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"411",HUMAN_OBSERVATION,CLO,,"2016","9","17",-33.701004,151.13336,Menura (Menura) novaehollandiae,lyrebird
+"414",HUMAN_OBSERVATION,CLO,,"2016","12","10",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"460",HUMAN_OBSERVATION,CLO,,"2016","6","26",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"477",HUMAN_OBSERVATION,CLO,,"2016","12","11",-33.64979,151.10193,Menura (Menura) novaehollandiae,lyrebird
+"506",HUMAN_OBSERVATION,CLO,,"2016","3","12",-33.72476,150.47543,Menura (Menura) novaehollandiae,lyrebird
+"512",HUMAN_OBSERVATION,CLO,,"2016","12","10",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"518",HUMAN_OBSERVATION,CLO,,"2016","3","23",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"525",HUMAN_OBSERVATION,CLO,,"2016","9","27",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"538",HUMAN_OBSERVATION,CLO,,"2016","6","15",-33.77891,150.61821,Menura (Menura) novaehollandiae,lyrebird
+"542",HUMAN_OBSERVATION,CLO,,"2016","9","4",-33.732086,150.31194,Menura (Menura) novaehollandiae,lyrebird
+"564",HUMAN_OBSERVATION,CLO,,"2016","12","20",-34.132694,151.0339,Menura (Menura) novaehollandiae,lyrebird
+"582",HUMAN_OBSERVATION,CLO,,"2016","3","23",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"595",HUMAN_OBSERVATION,CLO,,"2016","12","29",-33.675144,150.2691,Menura (Menura) novaehollandiae,lyrebird
+"596",HUMAN_OBSERVATION,CLO,,"2016","6","3",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"603",HUMAN_OBSERVATION,CLO,,"2016","6","3",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"608",HUMAN_OBSERVATION,CLO,,"2016","6","15",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"634",HUMAN_OBSERVATION,CLO,,"2016","3","5",-33.54683,150.66032,Menura (Menura) novaehollandiae,lyrebird
+"663",HUMAN_OBSERVATION,CLO,,"2016","6","21",-33.715557,150.49889,Menura (Menura) novaehollandiae,lyrebird
+"676",HUMAN_OBSERVATION,CLO,,"2016","6","29",-33.36064,151.36996,Menura (Menura) novaehollandiae,lyrebird
+"680",HUMAN_OBSERVATION,CLO,,"2016","6","1",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"692",HUMAN_OBSERVATION,CLO,,"2016","3","5",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"699",HUMAN_OBSERVATION,CLO,,"2016","12","31",-34.398308,150.86214,Menura (Menura) novaehollandiae,lyrebird
+"711",HUMAN_OBSERVATION,CLO,,"2016","3","24",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"718",HUMAN_OBSERVATION,CLO,,"2016","6","26",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"724",HUMAN_OBSERVATION,CLO,,"2016","3","3",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"727",HUMAN_OBSERVATION,CLO,,"2016","9","9",-34.40598,150.84596,Menura (Menura) novaehollandiae,lyrebird
+"731",HUMAN_OBSERVATION,CLO,,"2016","6","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"732",HUMAN_OBSERVATION,CLO,,"2016","3","31",-33.713097,150.31192,Menura (Menura) novaehollandiae,lyrebird
+"737",HUMAN_OBSERVATION,CLO,,"2016","3","27",-33.5309,150.65366,Menura (Menura) novaehollandiae,lyrebird
+"740",HUMAN_OBSERVATION,CLO,,"2016","12","11",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"743",HUMAN_OBSERVATION,CLO,,"2016","12","12",-34.144474,151.03185,Menura (Menura) novaehollandiae,lyrebird
+"746",HUMAN_OBSERVATION,CLO,,"2016","9","11",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"747",HUMAN_OBSERVATION,CLO,,"2016","6","13",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"757",HUMAN_OBSERVATION,CLO,,"2016","12","28",-34.142372,151.03134,Menura (Menura) novaehollandiae,lyrebird
+"773",HUMAN_OBSERVATION,CLO,,"2016","3","12",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"801",HUMAN_OBSERVATION,CLO,,"2016","6","28",-34.393597,150.67595,Menura (Menura) novaehollandiae,lyrebird
+"806",HUMAN_OBSERVATION,CLO,,"2016","3","31",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"809",HUMAN_OBSERVATION,CLO,,"2016","3","28",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"812",HUMAN_OBSERVATION,CLO,,"2016","3","27",-33.7052,150.24112,Menura (Menura) novaehollandiae,lyrebird
+"823",HUMAN_OBSERVATION,CLO,,"2016","6","9",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"824",HUMAN_OBSERVATION,CLO,,"2016","9","20",-33.701317,151.09291,Menura (Menura) novaehollandiae,lyrebird
+"831",HUMAN_OBSERVATION,CLO,,"2016","12","28",-34.142372,151.03134,Menura (Menura) novaehollandiae,lyrebird
+"835",HUMAN_OBSERVATION,CLO,,"2016","12","18",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"838",HUMAN_OBSERVATION,CLO,,"2016","6","15",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"841",HUMAN_OBSERVATION,CLO,,"2016","3","23",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"846",HUMAN_OBSERVATION,CLO,,"2016","6","17",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"849",HUMAN_OBSERVATION,CLO,,"2016","6","13",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"852",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"853",HUMAN_OBSERVATION,CLO,,"2016","6","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"857",HUMAN_OBSERVATION,CLO,,"2016","6","28",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"861",HUMAN_OBSERVATION,CLO,,"2016","6","17",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"865",HUMAN_OBSERVATION,CLO,,"2016","3","5",-33.69824,150.4441,Menura (Menura) novaehollandiae,lyrebird
+"869",HUMAN_OBSERVATION,CLO,,"2016","6","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"872",HUMAN_OBSERVATION,CLO,,"2016","3","9",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"885",HUMAN_OBSERVATION,CLO,,"2016","6","18",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"905",HUMAN_OBSERVATION,CLO,,"2016","6","26",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"907",HUMAN_OBSERVATION,CLO,,"2016","6","28",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"915",HUMAN_OBSERVATION,CLO,,"2016","6","11",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"931",HUMAN_OBSERVATION,CLO,,"2016","9","27",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"940",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"950",HUMAN_OBSERVATION,CLO,,"2016","3","5",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"964",HUMAN_OBSERVATION,CLO,,"2016","6","3",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"970",HUMAN_OBSERVATION,CLO,,"2016","6","17",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"983",HUMAN_OBSERVATION,CLO,,"2016","12","1",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"989",HUMAN_OBSERVATION,CLO,,"2016","6","29",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"995",HUMAN_OBSERVATION,CLO,,"2016","6","30",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"999",HUMAN_OBSERVATION,CLO,,"2016","6","17",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1001",HUMAN_OBSERVATION,CLO,,"2016","9","17",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"1004",HUMAN_OBSERVATION,CLO,,"2016","6","15",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1008",HUMAN_OBSERVATION,CLO,,"2016","12","1",-34.139153,151.11449,Menura (Menura) novaehollandiae,lyrebird
+"1010",HUMAN_OBSERVATION,CLO,,"2016","12","20",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"1015",HUMAN_OBSERVATION,CLO,,"2016","6","26",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"1073",HUMAN_OBSERVATION,CLO,,"2016","6","13",-34.293556,150.92863,Menura (Menura) novaehollandiae,lyrebird
+"1082",HUMAN_OBSERVATION,CLO,,"2016","9","6",-33.701385,151.14001,Menura (Menura) novaehollandiae,lyrebird
+"1093",HUMAN_OBSERVATION,CLO,,"2016","9","28",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"1097",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"1098",HUMAN_OBSERVATION,CLO,,"2016","9","10",-33.5781,151.30049,Menura (Menura) novaehollandiae,lyrebird
+"1109",HUMAN_OBSERVATION,CLO,,"2016","9","28",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"1117",HUMAN_OBSERVATION,CLO,,"2016","12","5",-33.887386,150.38617,Menura (Menura) novaehollandiae,lyrebird
+"1122",HUMAN_OBSERVATION,CLO,,"2016","9","18",-34.142605,151.03139,Menura (Menura) novaehollandiae,lyrebird
+"1132",HUMAN_OBSERVATION,CLO,,"2016","6","9",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"1134",HUMAN_OBSERVATION,CLO,,"2016","6","15",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1148",HUMAN_OBSERVATION,CLO,,"2016","6","15",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1151",HUMAN_OBSERVATION,CLO,,"2016","6","19",-33.690987,150.49268,Menura (Menura) novaehollandiae,lyrebird
+"1153",HUMAN_OBSERVATION,CLO,,"2016","12","26",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"1161",HUMAN_OBSERVATION,CLO,,"2016","6","29",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1166",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.75554,150.63608,Menura (Menura) novaehollandiae,lyrebird
+"1175",HUMAN_OBSERVATION,CLO,,"2016","9","27",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"1177",HUMAN_OBSERVATION,CLO,,"2016","9","26",-33.72775,150.36687,Menura (Menura) novaehollandiae,lyrebird
+"1188",HUMAN_OBSERVATION,CLO,,"2016","7","10",-33.59589,150.33997,Menura (Menura) novaehollandiae,lyrebird
+"1202",HUMAN_OBSERVATION,CLO,,"2016","12","20",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"1215",HUMAN_OBSERVATION,CLO,,"2016","3","12",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"1233",HUMAN_OBSERVATION,CLO,,"2016","6","1",-33.400276,151.14362,Menura (Menura) novaehollandiae,lyrebird
+"1235",HUMAN_OBSERVATION,CLO,,"2016","6","14",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"1251",HUMAN_OBSERVATION,CLO,,"2016","12","10",-33.690987,150.49268,Menura (Menura) novaehollandiae,lyrebird
+"1271",HUMAN_OBSERVATION,CLO,,"2016","1","8",-33.5309,150.65366,Menura (Menura) novaehollandiae,lyrebird
+"1323",HUMAN_OBSERVATION,CLO,,"2016","3","26",-33.71665,151.14397,Menura (Menura) novaehollandiae,lyrebird
+"1362",HUMAN_OBSERVATION,CLO,,"2016","3","14",-33.68888,151.15555,Menura (Menura) novaehollandiae,lyrebird
+"1368",HUMAN_OBSERVATION,CLO,,"2016","12","9",-33.74258,150.47902,Menura (Menura) novaehollandiae,lyrebird
+"1406",HUMAN_OBSERVATION,CLO,,"2016","6","16",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"1434",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.729008,150.30266,Menura (Menura) novaehollandiae,lyrebird
+"1436",HUMAN_OBSERVATION,CLO,,"2016","12","26",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"1449",HUMAN_OBSERVATION,CLO,,"2016","3","9",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"1462",HUMAN_OBSERVATION,CLO,,"2016","7","30",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1463",HUMAN_OBSERVATION,CLO,,"2016","6","17",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1469",HUMAN_OBSERVATION,CLO,,"2016","7","12",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1475",HUMAN_OBSERVATION,CLO,,"2016","6","26",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"1481",HUMAN_OBSERVATION,CLO,,"2016","3","9",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"1490",HUMAN_OBSERVATION,CLO,,"2016","12","1",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"1503",HUMAN_OBSERVATION,CLO,,"2016","6","13",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"1512",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"1526",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"1537",HUMAN_OBSERVATION,CLO,,"2016","6","11",-33.779808,150.62286,Menura (Menura) novaehollandiae,lyrebird
+"1542",HUMAN_OBSERVATION,CLO,,"2016","12","2",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"1544",HUMAN_OBSERVATION,CLO,,"2016","6","24",-33.779808,150.62286,Menura (Menura) novaehollandiae,lyrebird
+"1552",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.729008,150.30266,Menura (Menura) novaehollandiae,lyrebird
+"1559",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.729008,150.30266,Menura (Menura) novaehollandiae,lyrebird
+"1568",HUMAN_OBSERVATION,CLO,,"2016","6","11",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"1570",HUMAN_OBSERVATION,CLO,,"2016","3","6",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"1573",HUMAN_OBSERVATION,CLO,,"2016","6","9",-33.502934,150.27577,Menura (Menura) novaehollandiae,lyrebird
+"1592",HUMAN_OBSERVATION,CLO,,"2016","9","6",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"1598",HUMAN_OBSERVATION,CLO,,"2016","3","2",-33.72775,150.36687,Menura (Menura) novaehollandiae,lyrebird
+"1609",HUMAN_OBSERVATION,CLO,,"2016","12","3",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"1610",HUMAN_OBSERVATION,CLO,,"2016","12","26",-33.72775,150.36687,Menura (Menura) novaehollandiae,lyrebird
+"1614",HUMAN_OBSERVATION,CLO,,"2016","9","6",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"1618",HUMAN_OBSERVATION,CLO,,"2016","7","19",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1623",HUMAN_OBSERVATION,CLO,,"2016","10","29",-33.646706,150.32487,Menura (Menura) novaehollandiae,lyrebird
+"1626",HUMAN_OBSERVATION,CLO,,"2016","3","12",-33.72476,150.47543,Menura (Menura) novaehollandiae,lyrebird
+"1637",HUMAN_OBSERVATION,CLO,,"2016","3","5",-34.32278,150.89458,Menura (Menura) novaehollandiae,lyrebird
+"1639",HUMAN_OBSERVATION,CLO,,"2016","12","29",-33.64771,150.32567,Menura (Menura) novaehollandiae,lyrebird
+"1663",HUMAN_OBSERVATION,CLO,,"2016","9","27",-33.70263,150.48076,Menura (Menura) novaehollandiae,lyrebird
+"1695",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"1726",HUMAN_OBSERVATION,CLO,,"2016","3","8",-33.74258,150.47902,Menura (Menura) novaehollandiae,lyrebird
+"1741",HUMAN_OBSERVATION,CLO,,"2016","12","20",-34.132694,151.0339,Menura (Menura) novaehollandiae,lyrebird
+"1749",HUMAN_OBSERVATION,CLO,,"2016","6","11",-34.13039,150.98224,Menura (Menura) novaehollandiae,lyrebird
+"1750",HUMAN_OBSERVATION,CLO,,"2016","6","17",-34.32278,150.89458,Menura (Menura) novaehollandiae,lyrebird
+"1758",HUMAN_OBSERVATION,CLO,,"2016","6","5",-33.328335,151.35167,Menura (Menura) novaehollandiae,lyrebird
+"1760",HUMAN_OBSERVATION,CLO,,"2016","6","12",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"1771",HUMAN_OBSERVATION,CLO,,"2016","4","24",-34.39651,150.85983,Menura (Menura) novaehollandiae,lyrebird
+"1774",HUMAN_OBSERVATION,CLO,,"2016","3","22",-34.334026,150.7459,Menura (Menura) novaehollandiae,lyrebird
+"1782",HUMAN_OBSERVATION,CLO,,"2016","12","2",-33.654472,150.31361,Menura (Menura) novaehollandiae,lyrebird
+"1784",HUMAN_OBSERVATION,CLO,,"2016","1","3",-33.65937,150.31963,Menura (Menura) novaehollandiae,lyrebird
+"1791",HUMAN_OBSERVATION,CLO,,"2016","9","25",-33.72775,150.36687,Menura (Menura) novaehollandiae,lyrebird
+"1797",HUMAN_OBSERVATION,CLO,,"2016","7","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1821",HUMAN_OBSERVATION,CLO,,"2016","9","12",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"1830",HUMAN_OBSERVATION,CLO,,"2016","12","30",-33.59187,150.62595,Menura (Menura) novaehollandiae,lyrebird
+"1838",HUMAN_OBSERVATION,CLO,,"2016","1","31",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"1846",HUMAN_OBSERVATION,CLO,,"2016","6","14",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"1855",HUMAN_OBSERVATION,CLO,,"2016","1","31",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"1857",HUMAN_OBSERVATION,CLO,,"2016","6","9",-33.72501,150.30478,Menura (Menura) novaehollandiae,lyrebird
+"1861",HUMAN_OBSERVATION,CLO,,"2016","6","14",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"1866",HUMAN_OBSERVATION,CLO,,"2016","1","31",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"1880",HUMAN_OBSERVATION,CLO,,"2016","6","13",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"1881",HUMAN_OBSERVATION,CLO,,"2016","7","28",-33.5309,150.65366,Menura (Menura) novaehollandiae,lyrebird
+"1882",HUMAN_OBSERVATION,CLO,,"2016","3","2",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"1885",HUMAN_OBSERVATION,CLO,,"2016","4","2",-33.4,151.2,Menura (Menura) novaehollandiae,lyrebird
+"1892",HUMAN_OBSERVATION,CLO,,"2016","7","21",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1900",HUMAN_OBSERVATION,CLO,,"2016","7","7",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1908",HUMAN_OBSERVATION,CLO,,"2016","10","19",-33.646706,150.32487,Menura (Menura) novaehollandiae,lyrebird
+"1911",HUMAN_OBSERVATION,CLO,,"2016","6","14",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"1929",HUMAN_OBSERVATION,CLO,,"2016","4","21",-33.5309,150.65366,Menura (Menura) novaehollandiae,lyrebird
+"1931",HUMAN_OBSERVATION,CLO,,"2016","6","8",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"1933",HUMAN_OBSERVATION,CLO,,"2016","6","14",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"1936",HUMAN_OBSERVATION,CLO,,"2016","10","19",-33.646706,150.32487,Menura (Menura) novaehollandiae,lyrebird
+"1949",HUMAN_OBSERVATION,CLO,,"2016","7","21",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"1956",HUMAN_OBSERVATION,CLO,,"2016","6","15",-33.71234,150.59818,Menura (Menura) novaehollandiae,lyrebird
+"1967",HUMAN_OBSERVATION,CLO,,"2016","6","28",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"1975",HUMAN_OBSERVATION,CLO,,"2016","6","13",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"1976",HUMAN_OBSERVATION,CLO,,"2016","4","24",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"1985",HUMAN_OBSERVATION,CLO,,"2016","1","31",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"1989",HUMAN_OBSERVATION,CLO,,"2016","9","8",-33.621796,151.24724,Menura (Menura) novaehollandiae,lyrebird
+"1993",HUMAN_OBSERVATION,CLO,,"2016","6","15",-33.71234,150.59818,Menura (Menura) novaehollandiae,lyrebird
+"1998",HUMAN_OBSERVATION,CLO,,"2016","6","26",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2035",HUMAN_OBSERVATION,CLO,,"2016","1","18",-33.690987,150.49268,Menura (Menura) novaehollandiae,lyrebird
+"2044",HUMAN_OBSERVATION,CLO,,"2016","7","12",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2050",HUMAN_OBSERVATION,CLO,,"2016","10","31",-33.72026,150.36263,Menura (Menura) novaehollandiae,lyrebird
+"2051",HUMAN_OBSERVATION,CLO,,"2016","9","10",-34.07937,151.05484,Menura (Menura) novaehollandiae,lyrebird
+"2068",HUMAN_OBSERVATION,CLO,,"2016","1","31",-33.62989,150.40219,Menura (Menura) novaehollandiae,lyrebird
+"2072",HUMAN_OBSERVATION,CLO,,"2016","6","11",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2073",HUMAN_OBSERVATION,CLO,,"2016","6","11",-33.66696,151.26204,Menura (Menura) novaehollandiae,lyrebird
+"2084",HUMAN_OBSERVATION,CLO,,"2016","1","30",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"2085",HUMAN_OBSERVATION,CLO,,"2016","6","11",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2096",HUMAN_OBSERVATION,CLO,,"2016","6","17",-34.32278,150.89458,Menura (Menura) novaehollandiae,lyrebird
+"2098",HUMAN_OBSERVATION,CLO,,"2016","4","24",-34.39651,150.85983,Menura (Menura) novaehollandiae,lyrebird
+"2114",HUMAN_OBSERVATION,CLO,,"2016","10","19",-33.599377,150.34604,Menura (Menura) novaehollandiae,lyrebird
+"2137",HUMAN_OBSERVATION,CLO,,"2016","12","1",-34.14706,151.03046,Menura (Menura) novaehollandiae,lyrebird
+"2175",HUMAN_OBSERVATION,CLO,,"2016","12","12",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"2177",HUMAN_OBSERVATION,CLO,,"2016","6","18",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2182",HUMAN_OBSERVATION,CLO,,"2016","6","28",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2190",HUMAN_OBSERVATION,CLO,,"2016","10","16",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"2191",HUMAN_OBSERVATION,CLO,,"2016","6","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2197",HUMAN_OBSERVATION,CLO,,"2016","10","8",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"2212",HUMAN_OBSERVATION,CLO,,"2016","10","18",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"2221",HUMAN_OBSERVATION,CLO,,"2016","7","31",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"2234",HUMAN_OBSERVATION,CLO,,"2016","4","11",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"2250",HUMAN_OBSERVATION,CLO,,"2016","1","30",-33.770813,150.49487,Menura (Menura) novaehollandiae,lyrebird
+"2264",HUMAN_OBSERVATION,CLO,,"2016","1","14",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"2271",HUMAN_OBSERVATION,CLO,,"2016","7","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2276",HUMAN_OBSERVATION,CLO,,"2016","12","5",-33.887386,150.38617,Menura (Menura) novaehollandiae,lyrebird
+"2279",HUMAN_OBSERVATION,CLO,,"2016","7","12",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2286",HUMAN_OBSERVATION,CLO,,"2016","7","12",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2289",HUMAN_OBSERVATION,CLO,,"2016","7","5",-34.263256,150.80779,Menura (Menura) novaehollandiae,lyrebird
+"2290",HUMAN_OBSERVATION,CLO,,"2016","6","8",-33.729008,150.30266,Menura (Menura) novaehollandiae,lyrebird
+"2296",HUMAN_OBSERVATION,CLO,,"2016","12","27",-33.68444,151.13805,Menura (Menura) novaehollandiae,lyrebird
+"2320",HUMAN_OBSERVATION,CLO,,"2016","1","3",-33.65937,150.31963,Menura (Menura) novaehollandiae,lyrebird
+"2325",HUMAN_OBSERVATION,CLO,,"2016","7","30",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2339",HUMAN_OBSERVATION,CLO,,"2016","9","26",-33.727924,150.30542,Menura (Menura) novaehollandiae,lyrebird
+"2353",HUMAN_OBSERVATION,CLO,,"2016","10","1",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"2362",HUMAN_OBSERVATION,CLO,,"2016","7","7",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2363",HUMAN_OBSERVATION,CLO,,"2016","7","19",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2368",HUMAN_OBSERVATION,CLO,,"2016","7","21",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2369",HUMAN_OBSERVATION,CLO,,"2016","10","27",-33.713116,150.31175,Menura (Menura) novaehollandiae,lyrebird
+"2385",HUMAN_OBSERVATION,CLO,,"2016","10","8",-33.628155,150.31097,Menura (Menura) novaehollandiae,lyrebird
+"2393",HUMAN_OBSERVATION,CLO,,"2016","3","2",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"2395",HUMAN_OBSERVATION,CLO,,"2016","6","9",-33.72501,150.30478,Menura (Menura) novaehollandiae,lyrebird
+"2402",HUMAN_OBSERVATION,CLO,,"2016","10","19",-33.646706,150.32487,Menura (Menura) novaehollandiae,lyrebird
+"2406",HUMAN_OBSERVATION,CLO,,"2016","6","11",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2409",HUMAN_OBSERVATION,CLO,,"2016","7","2",-33.43889,151.24889,Menura (Menura) novaehollandiae,lyrebird
+"2415",HUMAN_OBSERVATION,CLO,,"2016","7","7",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2427",HUMAN_OBSERVATION,CLO,,"2016","4","3",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"2428",HUMAN_OBSERVATION,CLO,,"2016","6","13",-33.66268,150.27132,Menura (Menura) novaehollandiae,lyrebird
+"2465",HUMAN_OBSERVATION,CLO,,"2016","10","31",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"2475",HUMAN_OBSERVATION,CLO,,"2016","6","18",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2476",HUMAN_OBSERVATION,CLO,,"2016","12","11",-33.70263,150.48076,Menura (Menura) novaehollandiae,lyrebird
+"2483",HUMAN_OBSERVATION,CLO,,"2016","6","16",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"2497",HUMAN_OBSERVATION,CLO,,"2016","6","28",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2501",HUMAN_OBSERVATION,CLO,,"2016","3","6",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"2505",HUMAN_OBSERVATION,CLO,,"2016","6","13",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2508",HUMAN_OBSERVATION,CLO,,"2016","9","18",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"2517",HUMAN_OBSERVATION,CLO,,"2016","10","4",-33.72915,150.31598,Menura (Menura) novaehollandiae,lyrebird
+"2521",HUMAN_OBSERVATION,CLO,,"2016","6","20",-33.70983,150.64514,Menura (Menura) novaehollandiae,lyrebird
+"2523",HUMAN_OBSERVATION,CLO,,"2016","10","1",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"2525",HUMAN_OBSERVATION,CLO,,"2016","4","29",-33.59805,151.28888,Menura (Menura) novaehollandiae,lyrebird
+"2537",HUMAN_OBSERVATION,CLO,,"2016","12","28",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"2538",HUMAN_OBSERVATION,CLO,,"2016","6","29",-33.36064,151.36996,Menura (Menura) novaehollandiae,lyrebird
+"2549",HUMAN_OBSERVATION,CLO,,"2016","12","5",-33.701004,151.13336,Menura (Menura) novaehollandiae,lyrebird
+"2550",HUMAN_OBSERVATION,CLO,,"2016","7","9",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2555",HUMAN_OBSERVATION,CLO,,"2016","7","17",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2602",HUMAN_OBSERVATION,CLO,,"2016","6","11",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2617",HUMAN_OBSERVATION,CLO,,"2016","6","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2622",HUMAN_OBSERVATION,CLO,,"2016","6","13",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2627",HUMAN_OBSERVATION,CLO,,"2016","7","14",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2632",HUMAN_OBSERVATION,CLO,,"2016","10","31",-33.70764,151.17741,Menura (Menura) novaehollandiae,lyrebird
+"2637",HUMAN_OBSERVATION,CLO,,"2016","7","16",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2662",HUMAN_OBSERVATION,CLO,,"2016","7","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2682",HUMAN_OBSERVATION,CLO,,"2016","7","21",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2684",HUMAN_OBSERVATION,CLO,,"2016","7","15",-34.263256,150.80779,Menura (Menura) novaehollandiae,lyrebird
+"2688",HUMAN_OBSERVATION,CLO,,"2016","4","18",-33.5309,150.65366,Menura (Menura) novaehollandiae,lyrebird
+"2689",HUMAN_OBSERVATION,CLO,,"2016","7","10",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2694",HUMAN_OBSERVATION,CLO,,"2016","7","14",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2698",HUMAN_OBSERVATION,CLO,,"2016","6","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2700",HUMAN_OBSERVATION,CLO,,"2016","7","9",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2701",HUMAN_OBSERVATION,CLO,,"2016","4","16",-33.590744,151.19307,Menura (Menura) novaehollandiae,lyrebird
+"2712",HUMAN_OBSERVATION,CLO,,"2016","7","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"2732",HUMAN_OBSERVATION,CLO,,"2016","10","4",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"2733",HUMAN_OBSERVATION,CLO,,"2016","4","6",-33.41109,151.39331,Menura (Menura) novaehollandiae,lyrebird
+"2752",HUMAN_OBSERVATION,CLO,,"2016","4","6",-33.355003,150.94624,Menura (Menura) novaehollandiae,lyrebird
+"2753",HUMAN_OBSERVATION,CLO,,"2016","1","29",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"2755",HUMAN_OBSERVATION,CLO,,"2016","4","20",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"2761",HUMAN_OBSERVATION,CLO,,"2016","10","21",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"2762",HUMAN_OBSERVATION,CLO,,"2016","7","14",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"2768",HUMAN_OBSERVATION,CLO,,"2016","4","30",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"2776",HUMAN_OBSERVATION,CLO,,"2016","12","3",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"2778",HUMAN_OBSERVATION,CLO,,"2016","3","23",-33.573254,150.33337,Menura (Menura) novaehollandiae,lyrebird
+"2797",HUMAN_OBSERVATION,CLO,,"2016","12","29",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"2867",HUMAN_OBSERVATION,CLO,,"2016","1","31",-33.66583,150.37083,Menura (Menura) novaehollandiae,lyrebird
+"2873",HUMAN_OBSERVATION,CLO,,"2016","7","28",-33.690987,150.49268,Menura (Menura) novaehollandiae,lyrebird
+"2907",HUMAN_OBSERVATION,CLO,,"2016","6","18",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2908",HUMAN_OBSERVATION,CLO,,"2016","10","19",-33.657597,150.3236,Menura (Menura) novaehollandiae,lyrebird
+"2910",HUMAN_OBSERVATION,CLO,,"2016","4","2",-33.34702,151.36499,Menura (Menura) novaehollandiae,lyrebird
+"2914",HUMAN_OBSERVATION,CLO,,"2016","6","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2933",HUMAN_OBSERVATION,CLO,,"2016","6","18",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"2956",HUMAN_OBSERVATION,CLO,,"2016","3","12",-33.70777,151.27452,Menura (Menura) novaehollandiae,lyrebird
+"2960",HUMAN_OBSERVATION,CLO,,"2016","7","14",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2961",HUMAN_OBSERVATION,CLO,,"2016","7","23",-34.09105,151.02716,Menura (Menura) novaehollandiae,lyrebird
+"2963",HUMAN_OBSERVATION,CLO,,"2016","1","31",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"2992",HUMAN_OBSERVATION,CLO,,"2016","7","14",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"2994",HUMAN_OBSERVATION,CLO,,"2016","7","17",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"3000",HUMAN_OBSERVATION,CLO,,"2016","7","9",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"3004",HUMAN_OBSERVATION,CLO,,"2016","6","16",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"3008",HUMAN_OBSERVATION,CLO,,"2016","1","1",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"3011",HUMAN_OBSERVATION,CLO,,"2016","6","16",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"3013",HUMAN_OBSERVATION,CLO,,"2016","7","10",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"3017",HUMAN_OBSERVATION,CLO,,"2016","6","14",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"3025",HUMAN_OBSERVATION,CLO,,"2016","6","16",-33.658142,150.61934,Menura (Menura) novaehollandiae,lyrebird
+"3051",HUMAN_OBSERVATION,CLO,,"2016","4","21",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"3053",HUMAN_OBSERVATION,CLO,,"2016","1","9",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"3077",HUMAN_OBSERVATION,CLO,,"2016","1","3",-33.630386,151.1354,Menura (Menura) novaehollandiae,lyrebird
+"3078",HUMAN_OBSERVATION,CLO,,"2016","4","14",-33.55078,151.26869,Menura (Menura) novaehollandiae,lyrebird
+"3091",HUMAN_OBSERVATION,CLO,,"2016","3","5",-34.32278,150.89458,Menura (Menura) novaehollandiae,lyrebird
+"3107",HUMAN_OBSERVATION,CLO,,"2016","10","10",-33.690987,150.49268,Menura (Menura) novaehollandiae,lyrebird
+"3120",HUMAN_OBSERVATION,CLO,,"2016","10","29",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"3123",HUMAN_OBSERVATION,CLO,,"2016","10","28",-33.656937,151.27248,Menura (Menura) novaehollandiae,lyrebird
+"3139",HUMAN_OBSERVATION,CLO,,"2016","1","1",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"3149",HUMAN_OBSERVATION,CLO,,"2016","7","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"3155",HUMAN_OBSERVATION,CLO,,"2016","7","15",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"3162",HUMAN_OBSERVATION,CLO,,"2016","7","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"3176",HUMAN_OBSERVATION,CLO,,"2016","10","9",-33.6551,150.60516,Menura (Menura) novaehollandiae,lyrebird
+"3181",HUMAN_OBSERVATION,CLO,,"2016","7","12",-34.32278,150.89458,Menura (Menura) novaehollandiae,lyrebird
+"3192",HUMAN_OBSERVATION,CLO,,"2016","1","1",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"3208",HUMAN_OBSERVATION,CLO,,"2016","10","2",-33.67302,151.28207,Menura (Menura) novaehollandiae,lyrebird
+"3219",HUMAN_OBSERVATION,CLO,,"2016","7","15",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"3221",HUMAN_OBSERVATION,CLO,,"2016","1","21",-33.628742,151.10909,Menura (Menura) novaehollandiae,lyrebird
+"3265",HUMAN_OBSERVATION,CLO,,"2016","7","10",-33.70263,150.48076,Menura (Menura) novaehollandiae,lyrebird
+"3277",HUMAN_OBSERVATION,CLO,,"2016","10","29",-33.738117,150.28085,Menura (Menura) novaehollandiae,lyrebird
+"3292",HUMAN_OBSERVATION,CLO,,"2016","10","26",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"3311",HUMAN_OBSERVATION,CLO,,"2016","10","20",-34.07937,151.05484,Menura (Menura) novaehollandiae,lyrebird
+"3313",HUMAN_OBSERVATION,CLO,,"2016","4","20",-33.70777,151.27452,Menura (Menura) novaehollandiae,lyrebird
+"3325",HUMAN_OBSERVATION,CLO,,"2016","10","8",-33.66268,150.27132,Menura (Menura) novaehollandiae,lyrebird
+"3334",HUMAN_OBSERVATION,CLO,,"2016","7","26",-33.6551,150.60516,Menura (Menura) novaehollandiae,lyrebird
+"3340",HUMAN_OBSERVATION,CLO,,"2016","4","7",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"3342",HUMAN_OBSERVATION,CLO,,"2016","7","17",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"3345",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.719524,150.55794,Menura (Menura) novaehollandiae,lyrebird
+"3356",HUMAN_OBSERVATION,CLO,,"2016","1","14",-33.400707,151.04607,Menura (Menura) novaehollandiae,lyrebird
+"3365",HUMAN_OBSERVATION,CLO,,"2016","10","1",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"3380",HUMAN_OBSERVATION,CLO,,"2016","7","30",-33.389168,151.32666,Menura (Menura) novaehollandiae,lyrebird
+"3395",HUMAN_OBSERVATION,CLO,,"2016","4","11",-33.692013,150.5836,Menura (Menura) novaehollandiae,lyrebird
+"3415",HUMAN_OBSERVATION,CLO,,"2016","7","26",-33.6551,150.60516,Menura (Menura) novaehollandiae,lyrebird
+"3425",HUMAN_OBSERVATION,CLO,,"2016","7","10",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"3426",HUMAN_OBSERVATION,CLO,,"2016","10","9",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"3431",HUMAN_OBSERVATION,CLO,,"2016","7","14",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"3448",HUMAN_OBSERVATION,CLO,,"2016","4","27",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"3463",HUMAN_OBSERVATION,CLO,,"2016","7","2",-33.59187,150.62595,Menura (Menura) novaehollandiae,lyrebird
+"3466",HUMAN_OBSERVATION,CLO,,"2016","7","10",-33.73788,150.28358,Menura (Menura) novaehollandiae,lyrebird
+"3470",HUMAN_OBSERVATION,CLO,,"2016","10","20",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"3492",HUMAN_OBSERVATION,CLO,,"2016","10","1",-33.717632,151.15034,Menura (Menura) novaehollandiae,lyrebird
+"3496",HUMAN_OBSERVATION,CLO,,"2016","10","25",-34.41135,150.81973,Menura (Menura) novaehollandiae,lyrebird
+"3516",HUMAN_OBSERVATION,CLO,,"2016","10","17",-33.719494,150.3633,Menura (Menura) novaehollandiae,lyrebird
+"3527",HUMAN_OBSERVATION,CLO,,"2016","4","2",-33.643562,150.27687,Menura (Menura) novaehollandiae,lyrebird
+"3537",HUMAN_OBSERVATION,CLO,,"2016","8","11",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"3547",HUMAN_OBSERVATION,CLO,,"2016","4","14",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"3561",HUMAN_OBSERVATION,CLO,,"2016","10","24",-34.11669,151.06064,Menura (Menura) novaehollandiae,lyrebird
+"3562",HUMAN_OBSERVATION,CLO,,"2016","4","14",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"3575",HUMAN_OBSERVATION,CLO,,"2016","7","26",-33.6551,150.60516,Menura (Menura) novaehollandiae,lyrebird
+"3590",HUMAN_OBSERVATION,CLO,,"2016","10","1",-33.704098,151.13821,Menura (Menura) novaehollandiae,lyrebird
+"3595",HUMAN_OBSERVATION,CLO,,"2016","7","26",-33.6551,150.60516,Menura (Menura) novaehollandiae,lyrebird
+"3617",HUMAN_OBSERVATION,CLO,,"2016","4","17",-34.396683,150.85307,Menura (Menura) novaehollandiae,lyrebird
+"3626",HUMAN_OBSERVATION,CLO,,"2016","4","8",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"3628",HUMAN_OBSERVATION,CLO,,"2016","7","30",-33.73517,150.31854,Menura (Menura) novaehollandiae,lyrebird
+"3635",HUMAN_OBSERVATION,CLO,,"2016","2","11",-33.69824,150.4441,Menura (Menura) novaehollandiae,lyrebird
+"3637",HUMAN_OBSERVATION,CLO,,"2016","7","15",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"3642",HUMAN_OBSERVATION,CLO,,"2016","5","10",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"3643",HUMAN_OBSERVATION,CLO,,"2016","10","3",-34.14863,151.0308,Menura (Menura) novaehollandiae,lyrebird
+"3658",HUMAN_OBSERVATION,CLO,,"2016","7","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"3669",HUMAN_OBSERVATION,CLO,,"2016","1","4",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"3672",HUMAN_OBSERVATION,CLO,,"2016","10","8",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"3683",HUMAN_OBSERVATION,CLO,,"2016","10","1",-33.691624,151.28334,Menura (Menura) novaehollandiae,lyrebird
+"3687",HUMAN_OBSERVATION,CLO,,"2016","10","20",-34.07937,151.05484,Menura (Menura) novaehollandiae,lyrebird
+"3715",HUMAN_OBSERVATION,CLO,,"2016","10","8",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"3717",HUMAN_OBSERVATION,CLO,,"2016","7","12",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"3729",HUMAN_OBSERVATION,CLO,,"2016","7","7",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"3755",HUMAN_OBSERVATION,CLO,,"2016","10","25",-33.566154,150.92575,Menura (Menura) novaehollandiae,lyrebird
+"3758",HUMAN_OBSERVATION,CLO,,"2016","11","1",-33.74887,150.289,Menura (Menura) novaehollandiae,lyrebird
+"3765",HUMAN_OBSERVATION,CLO,,"2016","7","21",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"3772",HUMAN_OBSERVATION,CLO,,"2016","7","7",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"3778",HUMAN_OBSERVATION,CLO,,"2016","7","2",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"3788",HUMAN_OBSERVATION,CLO,,"2016","10","8",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"3790",HUMAN_OBSERVATION,CLO,,"2016","7","19",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"3797",HUMAN_OBSERVATION,CLO,,"2016","4","24",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"3809",HUMAN_OBSERVATION,CLO,,"2016","7","24",-33.668034,151.26335,Menura (Menura) novaehollandiae,lyrebird
+"3811",HUMAN_OBSERVATION,CLO,,"2016","7","8",-33.75554,150.63608,Menura (Menura) novaehollandiae,lyrebird
+"3838",HUMAN_OBSERVATION,CLO,,"2016","8","14",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"3841",HUMAN_OBSERVATION,CLO,,"2016","10","4",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"3843",HUMAN_OBSERVATION,CLO,,"2016","1","21",-33.67323,151.20847,Menura (Menura) novaehollandiae,lyrebird
+"3847",HUMAN_OBSERVATION,CLO,,"2016","7","30",-33.419724,151.37611,Menura (Menura) novaehollandiae,lyrebird
+"3849",HUMAN_OBSERVATION,CLO,,"2016","11","3",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"3863",HUMAN_OBSERVATION,CLO,,"2016","8","14",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"3868",HUMAN_OBSERVATION,CLO,,"2016","1","31",-34.263454,150.80531,Menura (Menura) novaehollandiae,lyrebird
+"3873",HUMAN_OBSERVATION,CLO,,"2016","4","6",-33.573254,150.33337,Menura (Menura) novaehollandiae,lyrebird
+"3883",HUMAN_OBSERVATION,CLO,,"2016","5","23",-33.45736,150.7228,Menura (Menura) novaehollandiae,lyrebird
+"3886",HUMAN_OBSERVATION,CLO,,"2016","7","10",-33.632076,150.3139,Menura (Menura) novaehollandiae,lyrebird
+"3904",HUMAN_OBSERVATION,CLO,,"2016","10","29",-33.738117,150.28085,Menura (Menura) novaehollandiae,lyrebird
+"3920",HUMAN_OBSERVATION,CLO,,"2016","11","4",-34.131054,151.05661,Menura (Menura) novaehollandiae,lyrebird
+"3927",HUMAN_OBSERVATION,CLO,,"2016","8","30",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"3930",HUMAN_OBSERVATION,CLO,,"2016","10","3",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"3931",HUMAN_OBSERVATION,CLO,,"2016","7","2",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"3941",HUMAN_OBSERVATION,CLO,,"2016","10","26",-33.724678,150.32455,Menura (Menura) novaehollandiae,lyrebird
+"3979",HUMAN_OBSERVATION,CLO,,"2016","4","19",-33.791203,150.62196,Menura (Menura) novaehollandiae,lyrebird
+"3990",HUMAN_OBSERVATION,CLO,,"2016","8","11",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"3998",HUMAN_OBSERVATION,CLO,,"2016","4","2",-33.643562,150.27687,Menura (Menura) novaehollandiae,lyrebird
+"4003",HUMAN_OBSERVATION,CLO,,"2016","10","1",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4005",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4010",HUMAN_OBSERVATION,CLO,,"2016","5","22",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"4017",HUMAN_OBSERVATION,CLO,,"2016","7","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4039",HUMAN_OBSERVATION,CLO,,"2016","10","20",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"4047",HUMAN_OBSERVATION,CLO,,"2016","7","24",-33.62895,151.10909,Menura (Menura) novaehollandiae,lyrebird
+"4066",HUMAN_OBSERVATION,CLO,,"2016","8","27",-33.5309,150.65366,Menura (Menura) novaehollandiae,lyrebird
+"4088",HUMAN_OBSERVATION,CLO,,"2016","2","23",-33.73702,150.3388,Menura (Menura) novaehollandiae,lyrebird
+"4099",HUMAN_OBSERVATION,CLO,,"2016","4","20",-33.70777,151.27452,Menura (Menura) novaehollandiae,lyrebird
+"4118",HUMAN_OBSERVATION,CLO,,"2016","1","1",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"4120",HUMAN_OBSERVATION,CLO,,"2016","7","19",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"4127",HUMAN_OBSERVATION,CLO,,"2016","10","8",-33.45736,150.7228,Menura (Menura) novaehollandiae,lyrebird
+"4135",HUMAN_OBSERVATION,CLO,,"2016","5","22",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"4176",HUMAN_OBSERVATION,CLO,,"2016","6","22",-33.70983,150.64514,Menura (Menura) novaehollandiae,lyrebird
+"4187",HUMAN_OBSERVATION,CLO,,"2016","7","26",-33.6551,150.60516,Menura (Menura) novaehollandiae,lyrebird
+"4205",HUMAN_OBSERVATION,CLO,,"2016","5","18",-33.70764,151.17741,Menura (Menura) novaehollandiae,lyrebird
+"4214",HUMAN_OBSERVATION,CLO,,"2016","10","3",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4217",HUMAN_OBSERVATION,CLO,,"2016","7","8",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4233",HUMAN_OBSERVATION,CLO,,"2016","10","3",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4241",HUMAN_OBSERVATION,CLO,,"2016","1","13",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4244",HUMAN_OBSERVATION,CLO,,"2016","10","19",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"4247",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4252",HUMAN_OBSERVATION,CLO,,"2016","10","19",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"4255",HUMAN_OBSERVATION,CLO,,"2016","10","3",-33.791203,150.62196,Menura (Menura) novaehollandiae,lyrebird
+"4256",HUMAN_OBSERVATION,CLO,,"2016","4","30",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"4265",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4267",HUMAN_OBSERVATION,CLO,,"2016","8","11",-34.436363,150.80817,Menura (Menura) novaehollandiae,lyrebird
+"4295",HUMAN_OBSERVATION,CLO,,"2016","11","7",-33.646706,150.32487,Menura (Menura) novaehollandiae,lyrebird
+"4321",HUMAN_OBSERVATION,CLO,,"2016","10","3",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4322",HUMAN_OBSERVATION,CLO,,"2016","10","30",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4330",HUMAN_OBSERVATION,CLO,,"2016","5","1",-34.144474,151.03185,Menura (Menura) novaehollandiae,lyrebird
+"4331",HUMAN_OBSERVATION,CLO,,"2016","5","25",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"4335",HUMAN_OBSERVATION,CLO,,"2016","10","30",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4338",HUMAN_OBSERVATION,CLO,,"2016","8","11",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"4354",HUMAN_OBSERVATION,CLO,,"2016","5","23",-33.45736,150.7228,Menura (Menura) novaehollandiae,lyrebird
+"4362",HUMAN_OBSERVATION,CLO,,"2016","5","2",-33.656643,151.27507,Menura (Menura) novaehollandiae,lyrebird
+"4374",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.719524,150.55794,Menura (Menura) novaehollandiae,lyrebird
+"4375",HUMAN_OBSERVATION,CLO,,"2016","5","13",-33.710236,150.3811,Menura (Menura) novaehollandiae,lyrebird
+"4408",HUMAN_OBSERVATION,CLO,,"2016","5","7",-33.36444,150.98837,Menura (Menura) novaehollandiae,lyrebird
+"4423",HUMAN_OBSERVATION,CLO,,"2016","5","7",-33.36444,150.98837,Menura (Menura) novaehollandiae,lyrebird
+"4442",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.446358,150.62746,Menura (Menura) novaehollandiae,lyrebird
+"4444",HUMAN_OBSERVATION,CLO,,"2016","5","16",-33.535408,151.3139,Menura (Menura) novaehollandiae,lyrebird
+"4456",HUMAN_OBSERVATION,CLO,,"2016","2","19",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"4473",HUMAN_OBSERVATION,CLO,,"2016","2","7",-33.61759,150.46532,Menura (Menura) novaehollandiae,lyrebird
+"4476",HUMAN_OBSERVATION,CLO,,"2016","5","1",-33.38047,151.39877,Menura (Menura) novaehollandiae,lyrebird
+"4481",HUMAN_OBSERVATION,CLO,,"2016","4","9",-33.621796,151.24724,Menura (Menura) novaehollandiae,lyrebird
+"4483",HUMAN_OBSERVATION,CLO,,"2016","11","24",-34.30537,150.90544,Menura (Menura) novaehollandiae,lyrebird
+"4484",HUMAN_OBSERVATION,CLO,,"2016","8","3",-33.77829,150.39114,Menura (Menura) novaehollandiae,lyrebird
+"4512",HUMAN_OBSERVATION,CLO,,"2016","10","8",-33.573254,150.33337,Menura (Menura) novaehollandiae,lyrebird
+"4513",HUMAN_OBSERVATION,CLO,,"2016","10","30",-33.66696,151.26204,Menura (Menura) novaehollandiae,lyrebird
+"4528",HUMAN_OBSERVATION,CLO,,"2016","5","7",-33.38558,151.07504,Menura (Menura) novaehollandiae,lyrebird
+"4561",HUMAN_OBSERVATION,CLO,,"2016","7","31",-33.628742,151.10909,Menura (Menura) novaehollandiae,lyrebird
+"4563",HUMAN_OBSERVATION,CLO,,"2016","7","15",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4569",HUMAN_OBSERVATION,CLO,,"2016","7","4",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4577",HUMAN_OBSERVATION,CLO,,"2016","11","27",-33.3311,151.32088,Menura (Menura) novaehollandiae,lyrebird
+"4580",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4587",HUMAN_OBSERVATION,CLO,,"2016","7","15",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4590",HUMAN_OBSERVATION,CLO,,"2016","4","23",-33.57959,150.36433,Menura (Menura) novaehollandiae,lyrebird
+"4594",HUMAN_OBSERVATION,CLO,,"2016","8","7",-33.629734,151.11345,Menura (Menura) novaehollandiae,lyrebird
+"4655",HUMAN_OBSERVATION,CLO,,"2016","11","14",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"4674",HUMAN_OBSERVATION,CLO,,"2016","2","22",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4677",HUMAN_OBSERVATION,CLO,,"2016","7","3",-33.726704,150.31978,Menura (Menura) novaehollandiae,lyrebird
+"4678",HUMAN_OBSERVATION,CLO,,"2016","11","9",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"4690",HUMAN_OBSERVATION,CLO,,"2016","2","21",-33.400707,151.04607,Menura (Menura) novaehollandiae,lyrebird
+"4693",HUMAN_OBSERVATION,CLO,,"2016","10","22",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4705",HUMAN_OBSERVATION,CLO,,"2016","10","9",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"4713",HUMAN_OBSERVATION,CLO,,"2016","2","27",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"4720",HUMAN_OBSERVATION,CLO,,"2016","11","8",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4724",HUMAN_OBSERVATION,CLO,,"2016","11","6",-33.664776,150.27144,Menura (Menura) novaehollandiae,lyrebird
+"4733",HUMAN_OBSERVATION,CLO,,"2016","11","12",-34.07888,151.08398,Menura (Menura) novaehollandiae,lyrebird
+"4744",HUMAN_OBSERVATION,CLO,,"2016","2","22",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4756",HUMAN_OBSERVATION,CLO,,"2016","11","26",-33.400707,151.04607,Menura (Menura) novaehollandiae,lyrebird
+"4769",HUMAN_OBSERVATION,CLO,,"2016","2","21",-33.400707,151.04607,Menura (Menura) novaehollandiae,lyrebird
+"4773",HUMAN_OBSERVATION,CLO,,"2016","11","7",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4779",HUMAN_OBSERVATION,CLO,,"2016","11","1",-33.400402,151.04463,Menura (Menura) novaehollandiae,lyrebird
+"4780",HUMAN_OBSERVATION,CLO,,"2016","11","1",-33.400707,151.04607,Menura (Menura) novaehollandiae,lyrebird
+"4789",HUMAN_OBSERVATION,CLO,,"2016","11","2",-33.65937,150.31963,Menura (Menura) novaehollandiae,lyrebird
+"4792",HUMAN_OBSERVATION,CLO,,"2016","11","7",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4801",HUMAN_OBSERVATION,CLO,,"2016","5","6",-34.14377,151.027,Menura (Menura) novaehollandiae,lyrebird
+"4805",HUMAN_OBSERVATION,CLO,,"2016","11","7",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4838",HUMAN_OBSERVATION,CLO,,"2016","11","7",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4865",HUMAN_OBSERVATION,CLO,,"2016","11","28",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"4907",HUMAN_OBSERVATION,CLO,,"2016","8","5",-33.400707,151.04607,Menura (Menura) novaehollandiae,lyrebird
+"4922",HUMAN_OBSERVATION,CLO,,"2016","4","8",-33.726696,150.37352,Menura (Menura) novaehollandiae,lyrebird
+"4931",HUMAN_OBSERVATION,CLO,,"2016","11","7",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4940",HUMAN_OBSERVATION,CLO,,"2016","11","3",-33.72476,150.47543,Menura (Menura) novaehollandiae,lyrebird
+"4950",HUMAN_OBSERVATION,CLO,,"2016","5","20",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4973",HUMAN_OBSERVATION,CLO,,"2016","2","20",-34.398308,150.86214,Menura (Menura) novaehollandiae,lyrebird
+"4977",HUMAN_OBSERVATION,CLO,,"2016","11","7",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"4992",HUMAN_OBSERVATION,CLO,,"2016","2","13",-33.72775,150.36687,Menura (Menura) novaehollandiae,lyrebird
+"5027",HUMAN_OBSERVATION,CLO,,"2016","11","8",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"5031",HUMAN_OBSERVATION,CLO,,"2016","2","24",-33.70777,151.27452,Menura (Menura) novaehollandiae,lyrebird
+"5039",HUMAN_OBSERVATION,CLO,,"2016","2","2",-33.770813,150.49487,Menura (Menura) novaehollandiae,lyrebird
+"5040",HUMAN_OBSERVATION,CLO,,"2016","5","11",-33.400707,151.04607,Menura (Menura) novaehollandiae,lyrebird
+"5043",HUMAN_OBSERVATION,CLO,,"2016","5","15",-33.712917,150.49542,Menura (Menura) novaehollandiae,lyrebird
+"5048",HUMAN_OBSERVATION,CLO,,"2016","2","19",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"5077",HUMAN_OBSERVATION,CLO,,"2016","8","20",-33.70777,151.27452,Menura (Menura) novaehollandiae,lyrebird
+"5090",HUMAN_OBSERVATION,CLO,,"2016","8","17",-33.683456,150.53627,Menura (Menura) novaehollandiae,lyrebird
+"5099",HUMAN_OBSERVATION,CLO,,"2016","5","2",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"5100",HUMAN_OBSERVATION,CLO,,"2016","11","6",-33.66696,151.26204,Menura (Menura) novaehollandiae,lyrebird
+"5101",HUMAN_OBSERVATION,CLO,,"2016","2","25",-33.690987,150.49268,Menura (Menura) novaehollandiae,lyrebird
+"5103",HUMAN_OBSERVATION,CLO,,"2016","5","14",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"5105",HUMAN_OBSERVATION,CLO,,"2016","2","21",-33.74258,150.47902,Menura (Menura) novaehollandiae,lyrebird
+"5132",HUMAN_OBSERVATION,CLO,,"2016","11","1",-34.075058,151.05664,Menura (Menura) novaehollandiae,lyrebird
+"5138",HUMAN_OBSERVATION,CLO,,"2016","2","25",-33.715557,150.49889,Menura (Menura) novaehollandiae,lyrebird
+"5147",HUMAN_OBSERVATION,CLO,,"2016","2","18",-33.70263,150.48076,Menura (Menura) novaehollandiae,lyrebird
+"5175",HUMAN_OBSERVATION,CLO,,"2016","8","17",-33.683456,150.53627,Menura (Menura) novaehollandiae,lyrebird
+"5177",HUMAN_OBSERVATION,CLO,,"2016","11","8",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"5201",HUMAN_OBSERVATION,CLO,,"2016","11","30",-33.628742,151.10909,Menura (Menura) novaehollandiae,lyrebird
+"5213",HUMAN_OBSERVATION,CLO,,"2016","11","27",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5219",HUMAN_OBSERVATION,CLO,,"2016","8","15",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"5223",HUMAN_OBSERVATION,CLO,,"2016","2","5",-33.77044,150.48866,Menura (Menura) novaehollandiae,lyrebird
+"5269",HUMAN_OBSERVATION,CLO,,"2016","5","14",-33.6551,150.60516,Menura (Menura) novaehollandiae,lyrebird
+"5276",HUMAN_OBSERVATION,CLO,,"2016","11","16",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5288",HUMAN_OBSERVATION,CLO,,"2016","11","7",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"5289",HUMAN_OBSERVATION,CLO,,"2016","8","12",-33.393055,151.43,Menura (Menura) novaehollandiae,lyrebird
+"5292",HUMAN_OBSERVATION,CLO,,"2016","5","15",-33.632076,150.2958,Menura (Menura) novaehollandiae,lyrebird
+"5296",HUMAN_OBSERVATION,CLO,,"2016","11","7",-33.573254,150.33337,Menura (Menura) novaehollandiae,lyrebird
+"5297",HUMAN_OBSERVATION,CLO,,"2016","8","24",-34.06898,150.43393,Menura (Menura) novaehollandiae,lyrebird
+"5300",HUMAN_OBSERVATION,CLO,,"2016","11","12",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5347",HUMAN_OBSERVATION,CLO,,"2016","2","15",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"5354",HUMAN_OBSERVATION,CLO,,"2016","11","5",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5364",HUMAN_OBSERVATION,CLO,,"2016","11","8",-33.71989,150.32169,Menura (Menura) novaehollandiae,lyrebird
+"5372",HUMAN_OBSERVATION,CLO,,"2016","5","7",-34.32978,150.90929,Menura (Menura) novaehollandiae,lyrebird
+"5377",HUMAN_OBSERVATION,CLO,,"2016","5","18",-33.692013,150.5836,Menura (Menura) novaehollandiae,lyrebird
+"5387",HUMAN_OBSERVATION,CLO,,"2016","8","29",-33.705128,150.54245,Menura (Menura) novaehollandiae,lyrebird
+"5389",HUMAN_OBSERVATION,CLO,,"2016","2","10",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5442",HUMAN_OBSERVATION,CLO,,"2016","2","19",-34.132694,151.0339,Menura (Menura) novaehollandiae,lyrebird
+"5460",HUMAN_OBSERVATION,CLO,,"2016","2","26",-33.83222,150.57388,Menura (Menura) novaehollandiae,lyrebird
+"5469",HUMAN_OBSERVATION,CLO,,"2016","2","13",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5477",HUMAN_OBSERVATION,CLO,,"2016","5","15",-33.645195,151.15865,Menura (Menura) novaehollandiae,lyrebird
+"5486",HUMAN_OBSERVATION,CLO,,"2016","5","14",-34.402718,150.85217,Menura (Menura) novaehollandiae,lyrebird
+"5495",HUMAN_OBSERVATION,CLO,,"2016","8","7",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5508",HUMAN_OBSERVATION,CLO,,"2016","11","13",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5511",HUMAN_OBSERVATION,CLO,,"2016","2","8",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"5514",HUMAN_OBSERVATION,CLO,,"2016","11","7",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"5518",HUMAN_OBSERVATION,CLO,,"2016","11","17",-33.628742,151.10909,Menura (Menura) novaehollandiae,lyrebird
+"5519",HUMAN_OBSERVATION,CLO,,"2016","5","29",-33.628742,151.10909,Menura (Menura) novaehollandiae,lyrebird
+"5523",HUMAN_OBSERVATION,CLO,,"2016","2","14",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5526",HUMAN_OBSERVATION,CLO,,"2016","5","7",-33.38558,151.07504,Menura (Menura) novaehollandiae,lyrebird
+"5542",HUMAN_OBSERVATION,CLO,,"2016","2","28",-33.628742,151.10909,Menura (Menura) novaehollandiae,lyrebird
+"5548",HUMAN_OBSERVATION,CLO,,"2016","8","11",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5550",HUMAN_OBSERVATION,CLO,,"2016","8","31",-33.380424,151.32535,Menura (Menura) novaehollandiae,lyrebird
+"5555",HUMAN_OBSERVATION,CLO,,"2016","11","11",-33.72028,150.36317,Menura (Menura) novaehollandiae,lyrebird
+"5560",HUMAN_OBSERVATION,CLO,,"2016","11","7",-33.651283,150.31467,Menura (Menura) novaehollandiae,lyrebird
+"5566",HUMAN_OBSERVATION,CLO,,"2016","5","2",-33.711163,150.31256,Menura (Menura) novaehollandiae,lyrebird
+"5578",HUMAN_OBSERVATION,CLO,,"2016","8","28",-34.41135,150.81973,Menura (Menura) novaehollandiae,lyrebird
+"5596",HUMAN_OBSERVATION,CLO,,"2016","11","10",-33.701004,151.13336,Menura (Menura) novaehollandiae,lyrebird
+"5606",HUMAN_OBSERVATION,CLO,,"2016","5","9",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"5648",HUMAN_OBSERVATION,CLO,,"2016","5","14",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5682",HUMAN_OBSERVATION,CLO,,"2016","11","27",-33.75045,150.46451,Menura (Menura) novaehollandiae,lyrebird
+"5685",HUMAN_OBSERVATION,CLO,,"2016","11","7",-33.573254,150.33337,Menura (Menura) novaehollandiae,lyrebird
+"5688",HUMAN_OBSERVATION,CLO,,"2016","2","10",-33.74258,150.47902,Menura (Menura) novaehollandiae,lyrebird
+"5700",HUMAN_OBSERVATION,CLO,,"2016","2","13",-33.7454,150.44829,Menura (Menura) novaehollandiae,lyrebird
+"5702",HUMAN_OBSERVATION,CLO,,"2016","8","1",-33.683456,150.53627,Menura (Menura) novaehollandiae,lyrebird
+"5707",HUMAN_OBSERVATION,CLO,,"2016","2","22",-34.18016,151.04015,Menura (Menura) novaehollandiae,lyrebird
+"5732",HUMAN_OBSERVATION,CLO,,"2016","11","20",-33.66696,151.26204,Menura (Menura) novaehollandiae,lyrebird
+"5741",HUMAN_OBSERVATION,CLO,,"2016","2","20",-34.398308,150.86214,Menura (Menura) novaehollandiae,lyrebird
+"5752",HUMAN_OBSERVATION,CLO,,"2016","2","8",-34.19389,151.0389,Menura (Menura) novaehollandiae,lyrebird
+"5759",HUMAN_OBSERVATION,CLO,,"2016","5","29",-33.66696,151.26204,Menura (Menura) novaehollandiae,lyrebird
+"5773",HUMAN_OBSERVATION,CLO,,"2016","8","14",-33.61311,150.63148,Menura (Menura) novaehollandiae,lyrebird
+"5780",HUMAN_OBSERVATION,CLO,,"2016","5","7",-33.728943,150.3016,Menura (Menura) novaehollandiae,lyrebird
+"5784",HUMAN_OBSERVATION,CLO,,"2016","11","13",-34.08635,151.0571,Menura (Menura) novaehollandiae,lyrebird
+"5797",HUMAN_OBSERVATION,CLO,,"2016","11","3",-33.71971,150.56154,Menura (Menura) novaehollandiae,lyrebird
+"5806",HUMAN_OBSERVATION,CLO,,"2016","11","13",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5826",HUMAN_OBSERVATION,CLO,,"2016","5","20",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5829",HUMAN_OBSERVATION,CLO,,"2016","2","28",-33.386982,151.36145,Menura (Menura) novaehollandiae,lyrebird
+"5841",HUMAN_OBSERVATION,CLO,,"2016","2","29",-33.66268,150.27132,Menura (Menura) novaehollandiae,lyrebird
+"5853",HUMAN_OBSERVATION,CLO,,"2016","11","8",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"5857",HUMAN_OBSERVATION,CLO,,"2016","11","21",-34.083042,151.05605,Menura (Menura) novaehollandiae,lyrebird
+"5865",HUMAN_OBSERVATION,CLO,,"2016","11","12",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5875",HUMAN_OBSERVATION,CLO,,"2016","2","14",-34.18016,151.04015,Menura (Menura) novaehollandiae,lyrebird
+"5879",HUMAN_OBSERVATION,CLO,,"2016","11","27",-34.11445,151.04665,Menura (Menura) novaehollandiae,lyrebird
+"5885",HUMAN_OBSERVATION,CLO,,"2016","2","26",-33.791203,150.62196,Menura (Menura) novaehollandiae,lyrebird
+"5890",HUMAN_OBSERVATION,CLO,,"2016","11","7",-33.79935,150.61871,Menura (Menura) novaehollandiae,lyrebird
+"5900",HUMAN_OBSERVATION,CLO,,"2016","5","14",-33.712917,150.49542,Menura (Menura) novaehollandiae,lyrebird
+"5905",HUMAN_OBSERVATION,CLO,,"2016","11","9",-33.70263,150.48076,Menura (Menura) novaehollandiae,lyrebird
+"5919",HUMAN_OBSERVATION,,,"2016","3","6",-33.80111,150.6164,Menura (Menura) novaehollandiae,lyrebird
+"5920",HUMAN_OBSERVATION,,,"2016","9","28",-34.2475,150.54167,Menura (Menura) novaehollandiae,lyrebird
+"5922",HUMAN_OBSERVATION,,,"2016","3","5",-33.69639,150.4461,Menura (Menura) novaehollandiae,lyrebird
+"5923",HUMAN_OBSERVATION,,,"2016","6","13",-33.6625,150.27111,Menura (Menura) novaehollandiae,lyrebird
+"5926",HUMAN_OBSERVATION,,,"2016","3","24",-33.76889,150.4894,Menura (Menura) novaehollandiae,lyrebird
+"5933",HUMAN_OBSERVATION,,,"2016","3","7",-34.41028,150.8242,Menura (Menura) novaehollandiae,lyrebird
+"5950",HUMAN_OBSERVATION,,,"2016","12","17",-33.82992,151.06525,Menura (Menura) novaehollandiae,lyrebird
+"5957",HUMAN_OBSERVATION,,,"2016","6","20",-33.70972,150.645,Menura (Menura) novaehollandiae,lyrebird
+"5969",HUMAN_OBSERVATION,,,"2016","6","26",-33.76889,150.48944,Menura (Menura) novaehollandiae,lyrebird
+"5984",HUMAN_OBSERVATION,,,"2016","3","6",-34.1875,151.0264,Menura (Menura) novaehollandiae,lyrebird
+"6002",HUMAN_OBSERVATION,,,"2016","10","25",-33.75889,150.37556,Menura (Menura) novaehollandiae,lyrebird
+"6003",HUMAN_OBSERVATION,,,"2016","9","27",-33.705,150.47861,Menura (Menura) novaehollandiae,lyrebird
+"6006",HUMAN_OBSERVATION,,,"2016","7","14",-33.76889,150.48944,Menura (Menura) novaehollandiae,lyrebird
+"6014",HUMAN_OBSERVATION,,,"2016","4","11",-33.76889,150.4894,Menura (Menura) novaehollandiae,lyrebird
+"6017",HUMAN_OBSERVATION,,,"2016","6","19",-33.69361,150.49222,Menura (Menura) novaehollandiae,lyrebird
+"6018",HUMAN_OBSERVATION,,,"2016","1","31",-33.62889,150.4036,Menura (Menura) novaehollandiae,lyrebird
+"6022",HUMAN_OBSERVATION,,,"2016","10","19",-33.79944,150.61861,Menura (Menura) novaehollandiae,lyrebird
+"6028",HUMAN_OBSERVATION,,,"2016","6","21",-33.71583,150.50056,Menura (Menura) novaehollandiae,lyrebird
+"6034",HUMAN_OBSERVATION,,,"2016","4","30",-33.75083,150.4644,Menura (Menura) novaehollandiae,lyrebird
+"6046",HUMAN_OBSERVATION,,,"2016","1","31",-33.66583,150.3708,Menura (Menura) novaehollandiae,lyrebird
+"6062",HUMAN_OBSERVATION,,,"2016","1","4",-33.75083,150.4644,Menura (Menura) novaehollandiae,lyrebird
+"6088",HUMAN_OBSERVATION,,,"2016","10","10",-33.69361,150.49222,Menura (Menura) novaehollandiae,lyrebird
+"6095",HUMAN_OBSERVATION,,,"2016","4","7",-33.75083,150.4644,Menura (Menura) novaehollandiae,lyrebird
+"6103",HUMAN_OBSERVATION,,,"2016","5","15",-34.24972,150.9428,Menura (Menura) novaehollandiae,lyrebird
+"6104",HUMAN_OBSERVATION,,,"2016","1","18",-33.69361,150.4922,Menura (Menura) novaehollandiae,lyrebird
+"6108",HUMAN_OBSERVATION,,,"2016","2","11",-33.69639,150.4461,Menura (Menura) novaehollandiae,lyrebird
+"6115",HUMAN_OBSERVATION,,,"2016","11","14",-33.76889,150.48944,Menura (Menura) novaehollandiae,lyrebird
+"6116",HUMAN_OBSERVATION,,,"2016","4","12",-33.70306,150.4433,Menura (Menura) novaehollandiae,lyrebird
+"6120",HUMAN_OBSERVATION,,,"2016","2","18",-33.705,150.4786,Menura (Menura) novaehollandiae,lyrebird
+"6140",HUMAN_OBSERVATION,,,"2016","1","30",-33.76889,150.4894,Menura (Menura) novaehollandiae,lyrebird
+"6144",HUMAN_OBSERVATION,,,"2016","2","29",-33.6625,150.2711,Menura (Menura) novaehollandiae,lyrebird
+"6147",HUMAN_OBSERVATION,,,"2016","2","5",-33.76889,150.4894,Menura (Menura) novaehollandiae,lyrebird
+"6151",HUMAN_OBSERVATION,,,"2016","11","22",-33.68528,150.60694,Menura (Menura) novaehollandiae,lyrebird
+"6160",HUMAN_OBSERVATION,,,"2016","4","21",-33.75083,150.4644,Menura (Menura) novaehollandiae,lyrebird
+"6164",HUMAN_OBSERVATION,,,"2016","2","26",-33.8325,150.5731,Menura (Menura) novaehollandiae,lyrebird
+"6168",HUMAN_OBSERVATION,,,"2016","4","19",-33.79139,150.6222,Menura (Menura) novaehollandiae,lyrebird
+"6169",HUMAN_OBSERVATION,,,"2016","5","25",-33.76889,150.4894,Menura (Menura) novaehollandiae,lyrebird
+"6178",HUMAN_OBSERVATION,,,"2016","7","17",-34.22417,150.54111,Menura (Menura) novaehollandiae,lyrebird
+"6181",HUMAN_OBSERVATION,,,"2016","11","24",-33.3475,151.36388,Menura (Menura) novaehollandiae,lyrebird
+"6185",HUMAN_OBSERVATION,,,"2016","11","27",-33.75083,150.46444,Menura (Menura) novaehollandiae,lyrebird
+"6186",HUMAN_OBSERVATION,,,"2016","2","21",-33.74417,150.48,Menura (Menura) novaehollandiae,lyrebird
+"6191",HUMAN_OBSERVATION,,,"2016","11","26",-33.40139,151.04667,Menura (Menura) novaehollandiae,lyrebird
+"6208",HUMAN_OBSERVATION,,,"2016","11","26",-33.40075,151.04879,Menura (Menura) novaehollandiae,lyrebird
+"6210",HUMAN_OBSERVATION,,,"2016","5","9",-33.75083,150.4644,Menura (Menura) novaehollandiae,lyrebird
+"6211",HUMAN_OBSERVATION,,,"2016","2","8",-33.75083,150.4644,Menura (Menura) novaehollandiae,lyrebird
+"6222",HUMAN_OBSERVATION,,,"2016","2","26",-33.79139,150.6222,Menura (Menura) novaehollandiae,lyrebird
+"6230",HUMAN_OBSERVATION,,,"2016","2","10",-33.74417,150.48,Menura (Menura) novaehollandiae,lyrebird
+"6233",HUMAN_OBSERVATION,,,"2016","8","21",-34.13806,151.03111,Menura (Menura) novaehollandiae,lyrebird
+"6356",HUMAN_OBSERVATION,,,"2016","10","15",-33.691638,151.085186,Menura (Menura) novaehollandiae,lyrebird
+"6387",HUMAN_OBSERVATION,,,"2016","4","28",-33.616309,150.227346,Menura (Menura) novaehollandiae,lyrebird
+"6416",HUMAN_OBSERVATION,,,"2016","4","18",-34.381944,150.868341,Menura (Menura) novaehollandiae,lyrebird
+"6430",HUMAN_OBSERVATION,,,"2016","11","23",-33.617569,151.149567,Menura (Menura) novaehollandiae,lyrebird
+"6433",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:44:00/14:56:00,"2016","12","22",-34.28505503,150.773925,Menura (Menura) novaehollandiae,lyrebird
+"6435",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","9","7",-33.75695703,151.162655,Menura (Menura) novaehollandiae,lyrebird
+"6449",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:58:00/14:56:00,"2016","9","11",-34.18264603,150.857683,Menura (Menura) novaehollandiae,lyrebird
+"6456",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:15:00/13:17:00,"2016","6","21",-33.43488403,151.273212,Menura (Menura) novaehollandiae,lyrebird
+"6459",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","12","1",-33.68866803,151.220305,Menura (Menura) novaehollandiae,lyrebird
+"6483",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",18:42:00/20:12:00,"2016","12","23",-34.29860203,150.765756,Menura (Menura) novaehollandiae,lyrebird
+"6499",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","9","12",-33.37196003,150.227202,Menura (Menura) novaehollandiae,lyrebird
+"6525",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:53:00/14:17:00,"2016","12","22",-34.30479903,150.78781,Menura (Menura) novaehollandiae,lyrebird
+"6527",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",14:15:00/12:00:00,"2016","9","16",-34.38441903,150.627132,Menura (Menura) novaehollandiae,lyrebird
+"6535",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","12","5",-33.40886903,150.277606,Menura (Menura) novaehollandiae,lyrebird
+"6539",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","12","12",-33.37526703,150.227924,Menura (Menura) novaehollandiae,lyrebird
+"6541",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","9","13",-33.37196003,150.227202,Menura (Menura) novaehollandiae,lyrebird
+"6542",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","9","5",-33.38759403,151.234432,Menura (Menura) novaehollandiae,lyrebird
+"6562",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","9","5",-33.37910603,151.240061,Menura (Menura) novaehollandiae,lyrebird
+"6600",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","12","16",-33.43932103,151.31515,Menura (Menura) novaehollandiae,lyrebird
+"6625",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:25:00/11:12:00,"2016","9","16",-34.43433303,150.647896,Menura (Menura) novaehollandiae,lyrebird
+"6632",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","9","20",-33.67122503,150.957821,Menura (Menura) novaehollandiae,lyrebird
+"6640",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:29:00/13:30:00,"2016","6","8",-33.55100703,151.287286,Menura (Menura) novaehollandiae,lyrebird
+"6646",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:36:00/11:21:00,"2016","9","10",-34.22330003,150.892549,Menura (Menura) novaehollandiae,lyrebird
+"6648",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",20:07:00/18:41:00,"2016","12","1",-34.30320703,150.77061,Menura (Menura) novaehollandiae,lyrebird
+"6650",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","6","7",-33.35302203,151.410863,Menura (Menura) novaehollandiae,lyrebird
+"6653",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","12","1",-33.77064103,150.624864,Menura (Menura) novaehollandiae,lyrebird
+"6655",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:02:00/13:12:00,"2016","12","23",-34.25232903,150.780499,Menura (Menura) novaehollandiae,lyrebird
+"6662",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:40:00/18:56:00,"2016","9","12",-34.18994103,150.879003,Menura (Menura) novaehollandiae,lyrebird
+"6682",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:22:00/13:24:00,"2016","9","11",-34.17422303,150.840626,Menura (Menura) novaehollandiae,lyrebird
+"6683",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","12","6",-33.43016503,150.260458,Menura (Menura) novaehollandiae,lyrebird
+"6685",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:41:00/12:25:00,"2016","7","13",-34.39090003,150.739858,Menura (Menura) novaehollandiae,lyrebird
+"6693",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",12:06:00/12:23:00,"2016","12","23",-34.28112503,150.799434,Menura (Menura) novaehollandiae,lyrebird
+"6698",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:16:00/12:17:00,"2016","9","11",-34.19939403,150.870368,Menura (Menura) novaehollandiae,lyrebird
+"6726",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",18:18:00/15:57:00,"2016","12","22",-34.25612203,150.772407,Menura (Menura) novaehollandiae,lyrebird
+"6735",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",18:57:00/14:44:00,"2016","10","20",-34.34034203,150.6402,Menura (Menura) novaehollandiae,lyrebird
+"6799",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:21:00/10:21:00,"2016","9","13",-34.23895003,150.925174,Menura (Menura) novaehollandiae,lyrebird
+"6804",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",12:44:00/11:08:00,"2016","7","13",-34.37527903,150.760187,Menura (Menura) novaehollandiae,lyrebird
+"6812",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","14",-33.79822403,151.218671,Menura (Menura) novaehollandiae,lyrebird
+"6814",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",18:10:00/15:37:00,"2016","10","13",-34.22222203,150.92553,Menura (Menura) novaehollandiae,lyrebird
+"6838",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","4","14",-33.43878303,150.253885,Menura (Menura) novaehollandiae,lyrebird
+"6844",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","6","17",-34.35136703,150.639738,Menura (Menura) novaehollandiae,lyrebird
+"6848",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",11:59:00/17:41:00,"2016","9","12",-34.19111103,150.866399,Menura (Menura) novaehollandiae,lyrebird
+"6853",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","8",-33.41463403,150.256484,Menura (Menura) novaehollandiae,lyrebird
+"6859",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:50:00/09:47:00,"2016","7","23",-34.42684703,150.709437,Menura (Menura) novaehollandiae,lyrebird
+"6867",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",14:22:00/17:07:00,"2016","7","21",-34.41398303,150.746841,Menura (Menura) novaehollandiae,lyrebird
+"6876",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:26:00/08:46:00,"2016","7","13",-34.40315203,150.719938,Menura (Menura) novaehollandiae,lyrebird
+"6881",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","17",-33.44754903,150.299122,Menura (Menura) novaehollandiae,lyrebird
+"6884",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","9",-33.41619803,150.26037,Menura (Menura) novaehollandiae,lyrebird
+"6888",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",11:07:10/08:31:00,"2016","10","27",-34.23124003,150.92139,Menura (Menura) novaehollandiae,lyrebird
+"6890",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",17:17:00/14:45:00,"2016","9","11",-34.18639703,150.854605,Menura (Menura) novaehollandiae,lyrebird
+"6899",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:11:00/17:47:00,"2016","12","23",-34.25271203,150.761889,Menura (Menura) novaehollandiae,lyrebird
+"6900",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","4",-33.40886903,150.277606,Menura (Menura) novaehollandiae,lyrebird
+"6913",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","7",-33.41619803,150.26037,Menura (Menura) novaehollandiae,lyrebird
+"6932",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",17:18:00/15:32:00,"2016","12","22",-34.27361703,150.765647,Menura (Menura) novaehollandiae,lyrebird
+"6940",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",14:28:00/11:16:00,"2016","10","20",-34.33108303,150.626657,Menura (Menura) novaehollandiae,lyrebird
+"6958",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","19",-33.44754903,150.299122,Menura (Menura) novaehollandiae,lyrebird
+"6962",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","18",-33.44754903,150.299122,Menura (Menura) novaehollandiae,lyrebird
+"6969",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:22:00/13:18:00,"2016","7","21",-34.39371403,150.766439,Menura (Menura) novaehollandiae,lyrebird
+"6972",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","1","17",-33.45191003,150.28294,Menura (Menura) novaehollandiae,lyrebird
+"6973",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","12","5",-33.41465403,150.25658,Menura (Menura) novaehollandiae,lyrebird
+"6979",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",19:20:00/11:29:00,"2016","10","19",-34.20442003,150.903589,Menura (Menura) novaehollandiae,lyrebird
+"6980",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","4","12",-33.63450303,150.285018,Menura (Menura) novaehollandiae,lyrebird
+"6985",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",17:42:00/13:27:00,"2016","10","20",-34.31090103,150.647891,Menura (Menura) novaehollandiae,lyrebird
+"6997",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:13:00/09:52:00,"2016","10","27",-34.26151203,150.802269,Menura (Menura) novaehollandiae,lyrebird
+"7002",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",09:56:00/18:16:00,"2016","4","3",-34.27081403,150.68705,Menura (Menura) novaehollandiae,lyrebird
+"7005",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","19",-33.43016503,150.260458,Menura (Menura) novaehollandiae,lyrebird
+"7011",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",11:56:00/14:25:00,"2016","1","28",-34.25488703,150.727227,Menura (Menura) novaehollandiae,lyrebird
+"7020",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",17:55:00/10:45:00,"2016","4","3",-34.24387103,150.669734,Menura (Menura) novaehollandiae,lyrebird
+"7028",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",17:12:00/12:07:00,"2016","7","6",-34.37906303,150.740894,Menura (Menura) novaehollandiae,lyrebird
+"7033",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",11:25:00/10:30:00,"2016","4","3",-34.24763203,150.670249,Menura (Menura) novaehollandiae,lyrebird
+"7056",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:59:00/17:20:00,"2016","7","23",-34.41545403,150.694692,Menura (Menura) novaehollandiae,lyrebird
+"7060",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",14:07:00/11:49:00,"2016","10","20",-34.34958203,150.638267,Menura (Menura) novaehollandiae,lyrebird
+"7062",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","14",-33.65222203,151.277222,Menura (Menura) novaehollandiae,lyrebird
+"7072",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",09:42:00/17:03:00,"2016","7","23",-34.41970003,150.720174,Menura (Menura) novaehollandiae,lyrebird
+"7075",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",00:05:00/00:20:00,"2016","10","28",-34.43542603,150.736798,Menura (Menura) novaehollandiae,lyrebird
+"7078",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",17:05:00/11:25:00,"2016","4","3",-34.28653903,150.704357,Menura (Menura) novaehollandiae,lyrebird
+"7081",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",17:51:00/11:10:00,"2016","7","6",-34.35725903,150.741675,Menura (Menura) novaehollandiae,lyrebird
+"7098",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:17:00/17:57:00,"2016","7","23",-34.42417203,150.702362,Menura (Menura) novaehollandiae,lyrebird
+"7101",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:02:00/08:50:00,"2016","10","27",-34.22279203,150.796448,Menura (Menura) novaehollandiae,lyrebird
+"7124",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:40:00/12:46:00,"2016","7","21",-34.40361803,150.739722,Menura (Menura) novaehollandiae,lyrebird
+"7131",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:14:00/11:35:00,"2016","10","20",-34.34345203,150.629906,Menura (Menura) novaehollandiae,lyrebird
+"7135",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","15",-34.14812403,150.342439,Menura (Menura) novaehollandiae,lyrebird
+"7150",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:15:00/15:08:00,"2016","1","28",-34.23200703,150.747891,Menura (Menura) novaehollandiae,lyrebird
+"7155",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:54:00/10:51:00,"2016","7","6",-34.36227503,150.740377,Menura (Menura) novaehollandiae,lyrebird
+"7182",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",14:09:00/09:11:00,"2016","10","27",-34.22625803,150.787663,Menura (Menura) novaehollandiae,lyrebird
+"7184",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","14",-33.65166703,151.28,Menura (Menura) novaehollandiae,lyrebird
+"7187",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.33209703,150.72909,Menura (Menura) novaehollandiae,lyrebird
+"7190",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:30:00/13:45:00,"2016","7","21",-34.40361803,150.739722,Menura (Menura) novaehollandiae,lyrebird
+"7198",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:19:00/17:43:00,"2016","7","21",-34.39527803,150.757783,Menura (Menura) novaehollandiae,lyrebird
+"7221",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",14:51:00/14:20:00,"2016","2","3",-34.32757003,150.678071,Menura (Menura) novaehollandiae,lyrebird
+"7227",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:40:00/12:08:00,"2016","10","20",-34.35301003,150.630018,Menura (Menura) novaehollandiae,lyrebird
+"7229",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",10:36:00/16:41:00,"2016","10","13",-34.18566503,150.946725,Menura (Menura) novaehollandiae,lyrebird
+"7230",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:08:00/18:35:00,"2016","7","23",-34.43084003,150.705041,Menura (Menura) novaehollandiae,lyrebird
+"7244",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","13",-34.36403003,150.6888,Menura (Menura) novaehollandiae,lyrebird
+"7261",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",12:38:00/12:35:00,"2016","10","20",-34.36575603,150.598445,Menura (Menura) novaehollandiae,lyrebird
+"7268",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","10",-33.79372003,151.21598,Menura (Menura) novaehollandiae,lyrebird
+"7270",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.34421403,150.695889,Menura (Menura) novaehollandiae,lyrebird
+"7320",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.36079203,150.652346,Menura (Menura) novaehollandiae,lyrebird
+"7324",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",11:05:00/10:17:00,"2016","2","11",-34.37549603,150.859372,Menura (Menura) novaehollandiae,lyrebird
+"7325",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",19:35:00/11:30:00,"2016","2","4",-34.39552103,150.709117,Menura (Menura) novaehollandiae,lyrebird
+"7333",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.34295103,150.695032,Menura (Menura) novaehollandiae,lyrebird
+"7348",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","8","2",-33.64741803,151.278945,Menura (Menura) novaehollandiae,lyrebird
+"7359",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","20",-33.40886903,150.277606,Menura (Menura) novaehollandiae,lyrebird
+"7365",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","21",-33.40886903,150.277606,Menura (Menura) novaehollandiae,lyrebird
+"7368",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","19",-33.40886903,150.277606,Menura (Menura) novaehollandiae,lyrebird
+"7376",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",18:36:00/13:18:00,"2016","2","4",-34.34065403,150.674863,Menura (Menura) novaehollandiae,lyrebird
+"7381",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","10","17",-33.44173203,150.280516,Menura (Menura) novaehollandiae,lyrebird
+"7382",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:00:00/15:15:00,"2016","2","4",-34.32758303,150.706499,Menura (Menura) novaehollandiae,lyrebird
+"7389",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.34315603,150.666187,Menura (Menura) novaehollandiae,lyrebird
+"7399",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","2","1",-33.77064103,150.624864,Menura (Menura) novaehollandiae,lyrebird
+"7401",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","25",-33.73129803,150.297953,Menura (Menura) novaehollandiae,lyrebird
+"7417",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",18:30:00/18:45:00,"2016","2","4",-34.34065403,150.674863,Menura (Menura) novaehollandiae,lyrebird
+"7431",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","17",-33.41619803,150.26037,Menura (Menura) novaehollandiae,lyrebird
+"7446",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","19",-33.40886903,150.277606,Menura (Menura) novaehollandiae,lyrebird
+"7460",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-33.77064103,150.624864,Menura (Menura) novaehollandiae,lyrebird
+"7464",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",20:03:00/11:45:00,"2016","2","4",-34.40809503,150.716715,Menura (Menura) novaehollandiae,lyrebird
+"7469",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment","0.430555556","2016","11","9",-33.80555603,151.216722,Menura (Menura) novaehollandiae,lyrebird
+"7470",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",17:13:00/16:43:00,"2016","2","4",-34.29773003,150.713156,Menura (Menura) novaehollandiae,lyrebird
+"7520",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.30935203,150.719635,Menura (Menura) novaehollandiae,lyrebird
+"7523",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",19:52:00/12:48:00,"2016","2","3",-34.34717503,150.662693,Menura (Menura) novaehollandiae,lyrebird
+"7525",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","9",-33.74554803,151.263328,Menura (Menura) novaehollandiae,lyrebird
+"7537",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","18",-33.40886903,150.277606,Menura (Menura) novaehollandiae,lyrebird
+"7546",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment","0.416666667","2016","11","9",-33.77005603,151.195194,Menura (Menura) novaehollandiae,lyrebird
+"7590",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","18",-33.40364603,150.280317,Menura (Menura) novaehollandiae,lyrebird
+"7596",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","5",-33.41340203,150.227454,Menura (Menura) novaehollandiae,lyrebird
+"7609",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","17",-33.40364603,150.280317,Menura (Menura) novaehollandiae,lyrebird
+"7612",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:48:00/14:32:00,"2016","2","3",-34.31757403,150.675847,Menura (Menura) novaehollandiae,lyrebird
+"7613",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","20",-33.40364603,150.280317,Menura (Menura) novaehollandiae,lyrebird
+"7625",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",14:03:00/15:42:00,"2016","2","4",-34.33962103,150.696987,Menura (Menura) novaehollandiae,lyrebird
+"7634",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",16:35:00/16:29:00,"2016","2","4",-34.30266003,150.712577,Menura (Menura) novaehollandiae,lyrebird
+"7637",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","2","24",-33.49431303,151.29272,Menura (Menura) novaehollandiae,lyrebird
+"7640",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",13:30:00/13:49:00,"2016","2","3",-34.34694703,150.689146,Menura (Menura) novaehollandiae,lyrebird
+"7672",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.33127903,150.724582,Menura (Menura) novaehollandiae,lyrebird
+"7694",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","18",-33.40364603,150.280317,Menura (Menura) novaehollandiae,lyrebird
+"7704",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.34258703,150.703371,Menura (Menura) novaehollandiae,lyrebird
+"7715",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.35898103,150.65225,Menura (Menura) novaehollandiae,lyrebird
+"7720",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","5","18",-33.40886903,150.277606,Menura (Menura) novaehollandiae,lyrebird
+"7737",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","2","15",-33.81752003,151.210885,Menura (Menura) novaehollandiae,lyrebird
+"7748",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",15:08:00/16:06:00,"2016","2","4",-34.32758303,150.706499,Menura (Menura) novaehollandiae,lyrebird
+"7755",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.31008803,150.722771,Menura (Menura) novaehollandiae,lyrebird
+"7765",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.32745603,150.725863,Menura (Menura) novaehollandiae,lyrebird
+"7783",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","2","6",-33.77140003,150.66229,Menura (Menura) novaehollandiae,lyrebird
+"7786",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","1",-34.34258703,150.703371,Menura (Menura) novaehollandiae,lyrebird
+"7796",HUMAN_OBSERVATION,"NSW Dept of Planning, Industry and Environment",,"2016","11","14",-33.68678303,151.219771,Menura (Menura) novaehollandiae,lyrebird
