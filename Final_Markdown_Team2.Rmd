@@ -1,0 +1,69 @@
+---
+title: "Species Distribution using a Generalised Linear Model to see Environmental Effects on Birds"
+author: "Sarah Mullins, Rui Wang, Tim Harding and Monique Lush"
+date: "2022-11-24"
+output: 
+  html_document:
+    css: style.css
+    theme: lumen
+    highlight: tango
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+***
+# Introduction 
+
+Brief introduction 
+
+Aim of the study
+
+specialist and generalists 
+
+## Bird Included in our Study 
+
+***
+
+# Methods 
+
+## Preparing the Data
+
+### GIS Processing 
+
+### Cleaning Data in R
+
+
+## Species Distribution Model in R
+
+### Creating Presence-Absence Data 
+
+### Running a GLM
+
+### Species Suitability Plots 
+
+### Layer Visualisations
+
+
+***
+
+# Results and Interpretations 
+
+
+
+## Results of Our Analysis 
+4 most influential factors
+Analysis the plots
+- suitability 
+- layers 
+generalists vs specialists (focus on individual species)
+
+Table of results (insert as image)
+images in matrix (if not, in an appendix)
+
+## Interpretation of results 
+
+***
+
+# Conclusions
+
