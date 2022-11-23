@@ -62,8 +62,7 @@ Analysis the plots
 - layers 
 generalists vs specialists (focus on individual species)
 
-Table of results (insert as image)
-images in matrix (if not, in an appendix)
+
 
 ![](results_table.png){width=95%}
 
@@ -72,11 +71,11 @@ images in matrix (if not, in an appendix)
 ### 3.21 Suitability Plots
 
 #### 3.211 Generalist Suitability Plots
-![](wi.png){width=33%} ![](nm.png){width=33%} ![](rl.png){width=33%} ![](rp.png){width=33%}
+![](wi.png){width=45%} ![](nm.png){width=45%} ![](rl.png){width=45%} ![](rd.png){width=45%}
 
 
 #### 3.212 Specialist Suitability Plots
-![](lk.png){width=33%} ![](kp.png){width=33%} ![](sl.png){width=33%} 
+![](lk.png){width=45%} ![](kp.png){width=45%} ![](sl.png){width=45%} 
 
 ### 3.22 Layer Visualisations 
 
