@@ -1,19 +1,23 @@
 ---
-title: "Species Distribution using a Generalised Linear Model to see Environmental Effects on Birds"
-author: "Sarah Mullins, Rui Wang, Tim Harding and Monique Lush"
-date: "2022-11-24"
-output: 
+title: Species Distribution using a Generalised Linear Model to see Environmental
+  Effects on Birds
+author: "Sarah Mullins, Rui Wang, Tim Harding, Monique Lush"
+date: "24-11-2022"
+output:
   html_document:
     css: style.css
     theme: lumen
     highlight: tango
-    toc: true
+    toc: yes
     toc_depth: 2
-    toc_float: true
+    toc_float: yes
+  word_document:
+    toc: yes
+    toc_depth: '2'
 ---
 
 ***
-# Introduction 
+# 1.0 Introduction 
 
 Brief introduction 
 
@@ -25,7 +29,7 @@ specialist and generalists
 
 ***
 
-# Methods 
+# 2.0 Methods 
 
 ## Preparing the Data
 
@@ -47,11 +51,11 @@ specialist and generalists
 
 ***
 
-# Results and Interpretations 
+# 3.0 Results and Interpretations 
 
 
 
-## Results of Our Analysis 
+## 3.1 Results of Our Analysis 
 4 most influential factors
 Analysis the plots
 - suitability 
@@ -61,9 +65,53 @@ generalists vs specialists (focus on individual species)
 Table of results (insert as image)
 images in matrix (if not, in an appendix)
 
-## Interpretation of results 
+![](results_table.png){width=95%}
+
+## 3.2 Plots for all Species
+
+### 3.21 Suitability Plots
+
+#### 3.211 Generalist Suitability Plots
+![](wi.png){width=33%} ![](nm.png){width=33%} ![](rl.png){width=33%} ![](rp.png){width=33%}
+
+
+#### 3.212 Specialist Suitability Plots
+![](lk.png){width=33%} ![](kp.png){width=33%} ![](sl.png){width=33%} 
+
+### 3.22 Layer Visualisations 
+
+#### 3.221 Generalist Visualisations
+
+##### White Ibis Influential layers
+![](wi_tree.jpg){width=33%} ![](wi_bio1.jpg){width=33%} ![](wi_bio15.jpg){width=33%}
+
+##### Noisy Miner Influential layers
+![](nm_tree.jpg){width=33%} ![](nm_bio1.jpg){width=33%} ![](nm_bio15.jpg){width=33%}
+
+##### Rainbow Lorikeet Influential layers
+![](rl_tree.jpg){width=33%} ![](rl_bio1.jpg){width=33%} ![](rl_bio7.jpg){width=33%}
+
+##### Rock Dove Influential layers
+![](rd_tree.jpg){width=33%} ![](rd_bio1.jpg){width=33%} ![](rd_bio13.jpg){width=33%}
+
+#### 3.222 Specialist Visualisations
+
+##### Laughing Kookaburra Influential layers
+![](lk_tree.jpg){width=33%} ![](lk_bio1.jpg){width=33%} ![](lk_bio15.jpg){width=33%}
+
+##### King Parrot Influential layers
+![](kp_tree.jpg){width=33%} ![](kp_bio1.jpg){width=33%} ![](kp_bio13.jpg){width=33%}
+
+##### Superb Lyrbird Influential layers
+![](sl_tree.jpg){width=33%} ![](sl_bio1.jpg){width=33%} ![](sl_river.jpg){width=33%}
+
+
+
+
+
+## 3.3 Interpretation of results 
 
 ***
 
-# Conclusions
+# 4.0 Conclusions
 
