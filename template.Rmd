@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 ---
-title: "Title"
-author: "Name 1, Name 2, Name 3 etc"
-date: "2022-11-02"
+title: "Species Distribution using a Generalised Linear Model to see Environmental Effects on Birds"
+author: "Sarah Mullins, Rui Wang, Tim Harding and Monique Lush"
+date: "2022-11-24"
 output: 
   html_document:
     css: style.css
@@ -14,96 +13,56 @@ output:
 ---
 
 ***
+# Introduction 
 
-Intro text goes here
+Brief introduction 
 
-```{r}
-# code goes inside chunks
-# comments inside code chunks must have "#" in front
-mean <- 1:5
-```
+Aim of the study
 
-Text outside of code chunks is rendered as normal text. Write whatever you want here!
+specialist and generalists 
 
-*italics*
-
-**bold**
-
-A list:
-
-* Item 1
-* Item 2
-* Item 3
-    - Sub-item 1
-    - Sub-item 2
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-Put a space before and after a chunk to make sure your text starts on the next line...
-
-```{r, warning = FALSE, message = FALSE}
-# This chunk will stop warnings and messages when loading a package
-library(dplyr)
-```
-
-...like this! 
-=======
----
-title: "Title"
-author: "Name 1, Name 2, Name 3 etc"
-date: "2022-11-02"
-output: 
-  html_document:
-    css: style.css
-    theme: lumen
-    highlight: tango
-    toc: true
-    toc_depth: 2
-    toc_float: true
----
+## Bird Included in our Study 
 
 ***
 
-Intro text goes here
+# Methods 
 
-```{r}
-# code goes inside chunks
-# comments inside code chunks must have "#" in front
-mean <- 1:5
-```
+## Preparing the Data
 
-Text outside of code chunks is rendered as normal text. Write whatever you want here!
+### GIS Processing 
 
-*italics*
+### Cleaning Data in R
 
-**bold**
 
-A list:
+## Species Distribution Model in R
 
-* Item 1
-* Item 2
-* Item 3
-    - Sub-item 1
-    - Sub-item 2
+### Creating Presence-Absence Data 
 
-# Header 1
+### Running a GLM
 
-## Header 2
+### Species Suitability Plots 
 
-### Header 3
+### Layer Visualisations
 
-Put a space before and after a chunk to make sure your text starts on the next line...
 
-```{r, warning = FALSE, message = FALSE}
-# This chunk will stop warnings and messages when loading a package
-library(dplyr)
-```
+***
 
-...like this! 
->>>>>>> 209300b991a198e07c25e9f460b248e9247681a7
+# Results and Interpretations 
 
-123. 123 pirates
+
+
+## Results of Our Analysis 
+4 most influential factors
+Analysis the plots
+- suitability 
+- layers 
+generalists vs specialists (focus on individual species)
+
+Table of results (insert as image)
+images in matrix (if not, in an appendix)
+
+## Interpretation of results 
+
+***
+
+# Conclusions
